@@ -1,7 +1,7 @@
 earl	12/23/19
 plugins/earl/plugininfo.html	https://github.com/dragonight01/earl/blob/master/plugininfo.html	327169
 plugins/earl/plugininfo.txt	https://github.com/dragonight01/earl/blob/master/plugininfo.txt	327121
-plugins/earl/cardback.jpg	https://github.com/dragonight01/earl/blob/master/cardback.jpg	0
-plugins/earl/spawned.jpg	https://github.com/dragonight01/earl/blob/master/spawned.jpg	0
+plugins/earl/cardback.jpg	https://github.com/dragonight01/earl/blob/master/cardback.jpg	42850
+plugins/earl/spawned.jpg	https://github.com/dragonight01/earl/blob/master/spawned.jpg	-11246
 CardGeneralURLs:
 https://github.com/dragonight01/earl/tree/master/sets/setimages/general
