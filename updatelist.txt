@@ -1,7 +1,7 @@
 earl	12/23/19
-plugins/earl/cardback.jpg	http://www.lackeyccg.com/earl/cardback.jpg	42850
-plugins/earl/plugininfo.html	http://www.lackeyccg.com/earl/plugininfo.html	327169
-plugins/earl/plugininfo.txt	http://www.lackeyccg.com/earl/sets/setimages/general/plugininfo.txt	327121
-plugins/earl/spawned.jpg	http://www.lackeyccg.com/earl/sets/setimages/general/spawned.jpg	-11246
+plugins/earl/plugininfo.html	https://github.com/dragonight01/earl/blob/master/plugininfo.html	327169
+plugins/earl/plugininfo.txt	https://github.com/dragonight01/earl/blob/master/plugininfo.txt	327121
+plugins/earl/cardback.jpg	https://github.com/dragonight01/earl/blob/master/cardback.jpg	0
+plugins/earl/spawned.jpg	https://github.com/dragonight01/earl/blob/master/spawned.jpg	0
 CardGeneralURLs:
-http://www.lackeyccg.com/earl/sets/setimages/general/
+https://github.com/dragonight01/earl/tree/master/sets/setimages/general
