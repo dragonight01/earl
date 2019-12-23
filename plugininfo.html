@@ -1,0 +1,132 @@
+<plugin>
+
+<playerstat><label>Health</label><initialvalue>20</initialvalue></playerstat>
+<playerstat><label>Energy</label><initialvalue>10</initialvalue></playerstat>
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+	<label>Starting</label>
+	<shuffle>yes</shuffle>
+</deckzone>
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Starting</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+			<phase><label>Draw</label></phase>
+			<phase><label>Main</label></phase>
+			<phase><label>Battle</label></phase>
+			<phase><label>End</label></phase>
+
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Stand</label>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Check Top</label>
+	<kind>DRAWCARDTOTABLE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Mill</label>
+	<kind>TRANSFERCARD</kind>                 
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>                 
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Drop Zone</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+<label>Flip Coin</label>
+<kind>FLIPCOIN</kind>
+<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Dice Roll</label>
+	<kind>ROLLD6</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction><label>Spawn card</label><kind>SPAWNCARD</kind><includeasbutton>no</includeasbutton></generalfunction>
+<cardfunction>
+	<label>Stand</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+	<includeasbutton>no</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Rest</label>
+	<kind>MAKERIGHT270DEGREES</kind>
+	<includeasbutton>no</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Flip</label>
+	<kind>TURNOVER</kind>
+	<includeasbutton>no</includeasbutton>
+</cardfunction>
+<cardfunction>
+<label>Add Power Counter</label>
+<kind>ADDCOUNTER</kind>
+<includeasbutton>yes</includeasbutton>
+<color>red</color>
+<PositionX>1</PositionX>
+</cardfunction>
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>no</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction>
+<label>Add Crit Counter</label>
+<kind>ADDCOUNTER</kind>
+<color>yellow</color>
+<PositionX>0</PositionX>
+</cardfunction>
+<definition>
+	<kind>ISYOURFACEDOWNVISIBLE</kind>
+	<value>yes</value>
+</definition>
+<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
+<definition>
+	<kind>TABLEITEMSCALE</kind><value>130</value>	
+</definition>
+<cardfunction>
+<cardfunction>
+<label>Clear Card</label>
+<kind>CLEARCARD</kind>
+</cardfunction>
+<listofcardsoundfiles>
+<soundentry><soundfile>Ride</soundfile><field>Type</field></soundentry><data>Blaster Blade</data></soundentry>
+</listofcardsoundfiles>
+
+
+<definition>
+	<kind>REUSECARDIMAGES</kind>
+	<value>yes</value>
+</definition>
+</plugin>

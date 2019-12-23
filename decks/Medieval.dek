@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>Earl</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="knight_of_light_oman">&quot;Knight of Light, Oman&quot;</name><set>Medieval</set></card>
+		<card><name id="knight_of_light_oman">&quot;Knight of Light, Oman&quot;</name><set>Medieval</set></card>
+		<card><name id="knight_of_light_oman">&quot;Knight of Light, Oman&quot;</name><set>Medieval</set></card>
+		<card><name id="trusty_swordsman_orion">&quot;Trusty Swordsman, Orion&quot;</name><set>Medieval</set></card>
+		<card><name id="trusty_swordsman_orion">&quot;Trusty Swordsman, Orion&quot;</name><set>Medieval</set></card>
+		<card><name id="trusty_swordsman_orion">&quot;Trusty Swordsman, Orion&quot;</name><set>Medieval</set></card>
+		<card><name id="catapult">Catapult</name><set>Medieval</set></card>
+		<card><name id="catapult">Catapult</name><set>Medieval</set></card>
+		<card><name id="catapult">Catapult</name><set>Medieval</set></card>
+		<card><name id="strongest_shield">Strongest Shield</name><set>Medieval</set></card>
+		<card><name id="strongest_shield">Strongest Shield</name><set>Medieval</set></card>
+		<card><name id="strongest_shield">Strongest Shield</name><set>Medieval</set></card>
+		<card><name id="archer_station">Archer Station</name><set>Medieval</set></card>
+		<card><name id="archer_station">Archer Station</name><set>Medieval</set></card>
+		<card><name id="archer_station">Archer Station</name><set>Medieval</set></card>
+		<card><name id="ballista">Ballista</name><set>Medieval</set></card>
+		<card><name id="ballista">Ballista</name><set>Medieval</set></card>
+		<card><name id="ballista">Ballista</name><set>Medieval</set></card>
+		<card><name id="bishop_of_the_white_knight">Bishop of the White Knight</name><set>Medieval</set></card>
+		<card><name id="bishop_of_the_white_knight">Bishop of the White Knight</name><set>Medieval</set></card>
+		<card><name id="bishop_of_the_white_knight">Bishop of the White Knight</name><set>Medieval</set></card>
+		<card><name id="omans_call">Oman&apos;s Call</name><set>Medieval</set></card>
+		<card><name id="omans_call">Oman&apos;s Call</name><set>Medieval</set></card>
+		<card><name id="omans_call">Oman&apos;s Call</name><set>Medieval</set></card>
+		<card><name id="squire_of_oman">Squire of Oman</name><set>Medieval</set></card>
+		<card><name id="squire_of_oman">Squire of Oman</name><set>Medieval</set></card>
+		<card><name id="squire_of_oman">Squire of Oman</name><set>Medieval</set></card>
+		<card><name id="oman_leader_of_heroes">&quot;Oman, Leader of Heroes&quot;</name><set>Medieval</set></card>
+		<card><name id="oman_leader_of_heroes">&quot;Oman, Leader of Heroes&quot;</name><set>Medieval</set></card>
+		<card><name id="oman_leader_of_heroes">&quot;Oman, Leader of Heroes&quot;</name><set>Medieval</set></card>
+		<card><name id="trained_commandant_oman">&quot;Trained Commandant, Oman&quot;</name><set>Medieval</set></card>
+		<card><name id="trained_commandant_oman">&quot;Trained Commandant, Oman&quot;</name><set>Medieval</set></card>
+		<card><name id="trained_commandant_oman">&quot;Trained Commandant, Oman&quot;</name><set>Medieval</set></card>
+		<card><name id="warrior_of_protection_garret">&quot;Warrior of Protection, Garret&quot;</name><set>Medieval</set></card>
+		<card><name id="warrior_of_protection_garret">&quot;Warrior of Protection, Garret&quot;</name><set>Medieval</set></card>
+		<card><name id="warrior_of_protection_garret">&quot;Warrior of Protection, Garret&quot;</name><set>Medieval</set></card>
+		<card><name id="omans_companion">Oman&apos;s Companion</name><set>Medieval</set></card>
+		<card><name id="omans_companion">Oman&apos;s Companion</name><set>Medieval</set></card>
+		<card><name id="omans_companion">Oman&apos;s Companion</name><set>Medieval</set></card>
+		<card><name id="personal_builder">Personal Builder</name><set>Medieval</set></card>
+		<card><name id="personal_builder">Personal Builder</name><set>Medieval</set></card>
+		<card><name id="personal_builder">Personal Builder</name><set>Medieval</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="castle">Castle</name><set>Medieval</set></card>
+	</superzone>
+</deck>

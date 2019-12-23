@@ -1,0 +1,19 @@
+<packdefinitions version="1.0">
+
+<pack>
+<packtitle>100 Buildings</packtitle>
+<packimage>100Buildings</packimage>
+<packformat>Standard</packformat>
+<packkind>Basic</packkind>
+<packdoubles>yes</packdoubles>
+<packcommoncrit><field>Set</field><eval>IS</eval><data>alpha</data></packcommoncrit>
+<chance>
+<kind><qty>20</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+<kind><qty>17</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultimate Rare</data></crit></kind>
+</chance>
+</pack>
+
+</packdefinitions>

@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>Earl</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="alien_blaster">Alien Blaster</name><set>Alien</set></card>
+		<card><name id="alien_blaster">Alien Blaster</name><set>Alien</set></card>
+		<card><name id="alien_blaster">Alien Blaster</name><set>Alien</set></card>
+		<card><name id="alien_metamorph">Alien Metamorph</name><set>Alien</set></card>
+		<card><name id="alien_metamorph">Alien Metamorph</name><set>Alien</set></card>
+		<card><name id="alien_metamorph">Alien Metamorph</name><set>Alien</set></card>
+		<card><name id="alien_troop_yiglizz">&quot;Alien Troop, Yiglizz&quot;</name><set>Alien</set></card>
+		<card><name id="alien_troop_yiglizz">&quot;Alien Troop, Yiglizz&quot;</name><set>Alien</set></card>
+		<card><name id="alien_troop_yiglizz">&quot;Alien Troop, Yiglizz&quot;</name><set>Alien</set></card>
+		<card><name id="alien_ufo">Alien UFO</name><set>Alien</set></card>
+		<card><name id="alien_ufo">Alien UFO</name><set>Alien</set></card>
+		<card><name id="alien_ufo">Alien UFO</name><set>Alien</set></card>
+		<card><name id="alien_overlord_yxxilig">&quot;Alien Overlord, Yxxilig&quot;</name><set>Alien</set></card>
+		<card><name id="alien_overlord_yxxilig">&quot;Alien Overlord, Yxxilig&quot;</name><set>Alien</set></card>
+		<card><name id="alien_overlord_yxxilig">&quot;Alien Overlord, Yxxilig&quot;</name><set>Alien</set></card>
+		<card><name id="soldier_of_zarxxig">Soldier of Zarxxig</name><set>Alien</set></card>
+		<card><name id="soldier_of_zarxxig">Soldier of Zarxxig</name><set>Alien</set></card>
+		<card><name id="soldier_of_zarxxig">Soldier of Zarxxig</name><set>Alien</set></card>
+		<card><name id="alien_conquerer_of_the_thousand_universes_yxxilizyzygzx">&quot;Alien Conquerer of the Thousand Universes, Yxxilizyzygzx&quot;</name><set>Alien</set></card>
+		<card><name id="alien_conquerer_of_the_thousand_universes_yxxilizyzygzx">&quot;Alien Conquerer of the Thousand Universes, Yxxilizyzygzx&quot;</name><set>Alien</set></card>
+		<card><name id="alien_conquerer_of_the_thousand_universes_yxxilizyzygzx">&quot;Alien Conquerer of the Thousand Universes, Yxxilizyzygzx&quot;</name><set>Alien</set></card>
+		<card><name id="shrine_of_the_alien_overlord">Shrine of the Alien Overlord</name><set>Alien</set></card>
+		<card><name id="shrine_of_the_alien_overlord">Shrine of the Alien Overlord</name><set>Alien</set></card>
+		<card><name id="shrine_of_the_alien_overlord">Shrine of the Alien Overlord</name><set>Alien</set></card>
+		<card><name id="alien_commander">Alien Commander</name><set>Alien</set></card>
+		<card><name id="alien_commander">Alien Commander</name><set>Alien</set></card>
+		<card><name id="alien_commander">Alien Commander</name><set>Alien</set></card>
+		<card><name id="the_shrine_of_the_dinosaur_lord">The Shrine of the Dinosaur Lord</name><set>Alien</set></card>
+		<card><name id="the_shrine_of_the_dinosaur_lord">The Shrine of the Dinosaur Lord</name><set>Alien</set></card>
+		<card><name id="the_shrine_of_the_dinosaur_lord">The Shrine of the Dinosaur Lord</name><set>Alien</set></card>
+		<card><name id="alien_spawn">Alien Spawn</name><set>Alien</set></card>
+		<card><name id="alien_spawn">Alien Spawn</name><set>Alien</set></card>
+		<card><name id="alien_spawn">Alien Spawn</name><set>Alien</set></card>
+		<card><name id="alien_slaughter_grounds">Alien Slaughter Grounds</name><set>Alien</set></card>
+		<card><name id="alien_slaughter_grounds">Alien Slaughter Grounds</name><set>Alien</set></card>
+		<card><name id="alien_slaughter_grounds">Alien Slaughter Grounds</name><set>Alien</set></card>
+		<card><name id="alien_of_light_oman">&quot;Alien of Light, Oman&quot;</name><set>Alien</set></card>
+		<card><name id="alien_of_light_oman">&quot;Alien of Light, Oman&quot;</name><set>Alien</set></card>
+		<card><name id="alien_of_light_oman">&quot;Alien of Light, Oman&quot;</name><set>Alien</set></card>
+		<card><name id="oblivion_alien_of_apocolypse">&quot;Oblivion, Alien Of Apocalypse&quot;</name><set>Alien</set></card>
+		<card><name id="oblivion_alien_of_apocolypse">&quot;Oblivion, Alien Of Apocalypse&quot;</name><set>Alien</set></card>
+		<card><name id="oblivion_alien_of_apocolypse">&quot;Oblivion, Alien Of Apocalypse&quot;</name><set>Alien</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="planet_zarxxig">Planet Zarxxig</name><set>Alien</set></card>
+	</superzone>
+</deck>
