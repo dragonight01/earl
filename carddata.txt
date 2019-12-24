@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Type	Rarity
+Name	Kingdom	ImageFile	Type	Rarity
 King Of Dinos	Dino	king_of_dinos	Creature	Ultra Rare
 Enosaurus	Dino	enosaurus	Creature	Common
 Peptosaur	Dino	peptosaur	Creature	Common
@@ -46,3 +46,4 @@ Alien Spawn	Alien	alien_spawn	Creature	Common
 Alien Slaughter Grounds	Alien	alien_slaughter_grounds	Structure	Common
 Alien of Light, Oman	Alien	alien_of_light_oman	Creature	Rare
 Oblivion, Alien Of Apocalypse	Alien	oblivion_alien_of_apocolypse	Creature	Rare
+Metamorphic Armour	Generic	metamorphic_armour	Equip	Uncommon
