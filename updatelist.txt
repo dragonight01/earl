@@ -3,6 +3,7 @@ plugins/earl/plugininfo.html	https://raw.githubusercontent.com/dragonight01/earl
 plugins/earl/plugininfo.txt	https://raw.githubusercontent.com/dragonight01/earl/master/plugininfo.txt	327120
 plugins/earl/cardback.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/cardback.jpg	42850
 plugins/earl/spawned.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/spawned.jpg	-11246
-plugins/earl/sets/carddata.txt	https://raw.githubusercontent.com/dragonight01/earl/master/sets/carddata.txt	111111
+plugins/earl/sets/carddata.txt	https://raw.githubusercontent.com/dragonight01/earl/master/sets/carddata.txt	262730
+plugins/earl/CardImageURLs.txt	https://raw.githubusercontent.com/dragonight01/earl/master/CardImageURLs1.txt	1
 CardURLFiles:
 CardImageURLs1.txt
