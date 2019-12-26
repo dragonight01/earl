@@ -1,0 +1,2 @@
+CardImageURLs:
+Set1/S101.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/general/alien_battlefield.jpg
