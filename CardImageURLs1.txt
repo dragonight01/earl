@@ -44,7 +44,7 @@ Set1/S142.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/se
 Set1/S143.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/squire_of_oman.jpg
 Set1/S144.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/strongest_shield.jpg
 Set1/S145.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/tail_slam.jpg
-Set1/S146.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/the_shrine_of_the_dinosaur_lord.jpg
+Set1/S146.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/shrine_of_the_dinosaur_lord.jpg
 Set1/S147.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/trained_commandant_oman.jpg
 Set1/S148.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/trusty_swordsman_orion.jpg
 Set1/S149.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/volcano.jpg
