@@ -61,7 +61,7 @@
 <bindinggeneral4>META+m</bindinggeneral4>
 <bindinggeneral5>CTRL+d</bindinggeneral5>
 <bindinggeneral6>CTRL+RIGHT</bindinggeneral6>
-<bindinggeneral7>BACKSPACE</bindinggeneral7>
+<bindinggeneral7>BACKSLASH</bindinggeneral7>
 <bindinggeneral8>TAB</bindinggeneral8>
 <bindingcard1>ALT+q</bindingcard1>
 <bindingcard2>CTRL+SHIFT+MINUS</bindingcard2>
