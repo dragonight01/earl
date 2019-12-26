@@ -1,4 +1,5 @@
 earl	12/26/19
+plugins/earl/updatelist.txt	https://raw.githubusercontent.com/dragonight01/earl/master/updatelist.txt	327169
 plugins/earl/plugininfo.html	https://raw.githubusercontent.com/dragonight01/earl/master/plugininfo.html	327169
 plugins/earl/plugininfo.txt	https://raw.githubusercontent.com/dragonight01/earl/master/plugininfo.txt	327120
 plugins/earl/CardImageURLs1.txt	https://raw.githubusercontent.com/dragonight01/earl/master/CardImageURLs1.txt	534721
