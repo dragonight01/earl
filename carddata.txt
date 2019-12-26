@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name	Set	ImageFile	Type	Rarity
 King Of Dinos	Dino	king_of_dinos	Creature	Ultra Rare
 Enosaurus	Dino	enosaurus	Creature	Common
@@ -46,3 +47,54 @@ Alien Spawn	Alien	alien_spawn	Creature	Common
 Alien Slaughter Grounds	Alien	alien_slaughter_grounds	Structure	Common
 "Alien of Light, Oman"	Alien	alien_of_light_oman	Creature	Rare
 "Oblivion, Alien Of Apocalypse"	Alien	oblivion_alien_of_apocolypse	Creature	Rare
+=======
+Name	Kingdom	ImageFile	Type	Rarity
+King Of Dinos	Dino	king_of_dinos	Creature	Ultra Rare
+Enosaurus	Dino	enosaurus	Creature	Common
+Peptosaur	Dino	peptosaur	Creature	Common
+Volcano	Dino	volcano	Structure	Uncommon
+Extinction	Dino	extinction	Magic	Common
+Fossil Excavation	Dino	fossil_excavation	Magic	Common
+Dino Island	Dino	dino_island	Base	Common
+Asteroid Barrier	Dino	asteroid_barrier	Magic	Common
+Oblivion, Dino Of Apocalypse	Dino	oblivion_dino_of_apocolypse	Creature	Ultimate Rare
+Dinio, Priest of the Dinos	Dino	dinio_priest_of_the_dinos	Creature	Common
+Fossil Restoration	Dino	fossil_restoration	Magic	Rare
+Baby Dino	Dino	baby_dino	Creature	Common
+Tail Slam	Dino	tail_slam	Magic	Common
+Meteor Impact	Dino	meteor_impact	Magic	Common
+Dino Eggs	Dino	dino_eggs	Magic	Uncommon
+Dino Egg Token	Dino	dino_egg	Token	Common
+Knight of Light, Oman	Medieval	knight_of_light_oman	Creature	Ultra Rare
+Trusty Swordsman, Orion	Medieval	trusty_swordsman_orion	Creature	Rare
+Castle	Medieval	castle	Base	Common
+Strongest Shield	Medieval	strongest_shield	Magic	Common
+Archer Station	Medieval	archer_station	Structure	Common
+Catapult	Medieval	catapult	Structure	Common
+Oman's Companion	Medieval	omans_companion	Magic	Common
+Resupply	Medieval	resupply	Magic	Common
+Ballista	Medieval	ballista	Structure	Uncommon
+Bishop of the White Knight	Medieval	bishop_of_the_white_knight	Creature	Common
+Oman, Leader of Heroes	Medieval	oman_leader_of_heroes	Creature	Ultimate Rare
+Oman's Call	Medieval	omans_call	Magic	Common
+Personal Builder	Medieval	personal_builder	Creature	Common
+Squire of Oman	Medieval	squire_of_oman	Creature	Common
+Trained Commandant, Oman	Medieval	trained_commandant_oman	Creature	Common
+Warrior of Protection, Garret	Medieval	warrior_of_protection_garret	Creature	Common
+Planet Zarxxig	Alien	planet_zarxxig	Base	Common
+Alien Overlord, Yxxilig	Alien	alien_overlord_yxxilig	Creature	Ultra Rare
+Alien Troop, Yiglizz	Alien	alien_troop_yiglizz	Creature	Common
+Alien Metamorph	Alien	alien_metamorph	Creature	Common
+Alien UFO	Alien	alien_ufo	Structure	Uncommon
+Alien Blaster	Alien	alien_blaster	Magic	Common
+Soldier of Zarxxig	Alien	soldier_of_zarxxig	Creature	Common
+Alien Conquerer of the Thousand Universes, Yxxilizyzygzx	Alien	alien_conquerer_of_the_thousand_universes_yxxilizyzygzx	Creature	Ultimate Rare
+Alien Commander	Alien	alien_commander	Creature	Common
+Shrine of the Alien Overlord	Alien	shrine_of_the_alien_overlord	Shrine	Rare
+The Shrine of the Dinosaur Lord	Alien	the_shrine_of_the_dinosaur_lord	Shrine	Common
+Alien Spawn	Alien	alien_spawn	Creature	Common
+Alien Slaughter Grounds	Alien	alien_slaughter_grounds	Structure	Common
+Alien of Light, Oman	Alien	alien_of_light_oman	Creature	Rare
+Oblivion, Alien Of Apocalypse	Alien	oblivion_alien_of_apocolypse	Creature	Rare
+Metamorphic Armour	Generic	metamorphic_armour	Equip	Uncommon
+>>>>>>> ac50a8aa1d6e48f410cbc3fb0c27566198f011c1
