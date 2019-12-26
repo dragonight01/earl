@@ -1,5 +1,5 @@
 earl	12/26/19
-plugins/earl/updatelist.txt	https://raw.githubusercontent.com/dragonight01/earl/master/updatelist.txt	155857
+plugins/earl/updatelist.txt	https://raw.githubusercontent.com/dragonight01/earl/master/updatelist.txt	79761
 plugins/earl/plugininfo.html	https://raw.githubusercontent.com/dragonight01/earl/master/plugininfo.html	327169
 plugins/earl/plugininfo.txt	https://raw.githubusercontent.com/dragonight01/earl/master/plugininfo.txt	327120
 plugins/earl/Set1URLs.txt	https://raw.githubusercontent.com/dragonight01/earl/master/Set1URLs.txt	534721
@@ -7,10 +7,4 @@ plugins/earl/sets/carddata.txt	https://raw.githubusercontent.com/dragonight01/ea
 plugins/earl/sets/setimages/cardback.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/cardback.jpg	42850
 plugins/earl/sets/setimages/spawned.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/spawned.jpg	-11246
 CardImageURLs:
-Set1/S101.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_battlefield.jpg
-Set1/S102.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_blaster.jpg
-Set1/S103.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_commander.jpg
-Set1/S104.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_conquerer_of_the_thousand_universes.jpg
-Set1/S105.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_metamorph.jpg
-Set1/S106.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_of_light_oman.jpg
-Set1/S107.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_overlord.jpg
+Set1URLs.txt
