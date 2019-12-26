@@ -5,6 +5,5 @@ plugins/earl/CardImageURLs1.txt	https://raw.githubusercontent.com/dragonight01/e
 plugins/earl/sets/setimages/Set1/cardback.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/cardback.jpg	42850
 plugins/earl/sets/setimages/Set1/spawned.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/spawned.jpg	-11246
 plugins/earl/sets/carddata.txt	https://raw.githubusercontent.com/dragonight01/earl/master/sets/carddata.txt	262730
-CardURLFiles:
 CardImageURLs:
 CardImageURLs1.txt
