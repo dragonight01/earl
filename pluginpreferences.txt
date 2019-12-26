@@ -1,33 +1,28 @@
 <pluginpreferences>
 
-<counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
+<counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
-<recenttablebackgrounds>testbackground.jpg</recenttablebackgrounds>
-<recenttablebackgrounds>feltbackground.jpg</recenttablebackgrounds>
-<recentzonebackgrounds>wide.jpg</recentzonebackgrounds>
-<recentzonebackgrounds>novabackground.jpg</recentzonebackgrounds>
-<canned>/shuffle deck</canned>
-<canned>/draw 5</canned>
-<canned>Stride</canned>
-<canned>Ride</canned>
-<canned>Call</canned>
-<canned>NG</canned>
+<canned>(PoP?) Pass or Play?</canned>
+<canned>Pass.</canned>
+<canned>Proceed.</canned>
+<canned>Thinking...</canned>
+<canned>Hold on...</canned>
+<canned>(EoT) At end of turn...</canned>
 <canned>Attack!</canned>
-<canned>Guard</canned>
-<canned>Standup.wav</canned>
-<canned>Final Turn!</canned>
-<canned>Seek the Mate</canned>
+<canned>In response...</canned>
+<canned>Mulligan.</canned>
+<canned>Your turn...</canned>
+<canned>Done.</canned>
+<canned>Yay!</canned>
+<canned>shucks</canned>
+<canned>/roll</canned>
 <canned>/clear</canned>
-<canned>gg</canned>
-<canned>Soul Charge</canned>
-<canned>Soul Blast</canned>
-<canned>Lock</canned>
-<canned>Unlock</canned>
-<canned>Delete End</canned>
-<canned>Legion</canned>
-<canned>stand</canned>
-<tokens>Dino Egg</tokens>
+<canned>/draw7</canned>
+<canned>/rolld20</canned>
+<canned>/draw6</canned>
+<canned>/draw8</canned>
+<canned>Good game.</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>Play-Regular.ttf</fontkind0pos1>
 <fontkind0pos2>times.ttf</fontkind0pos2>
@@ -44,31 +39,19 @@
 <fontsize1>11</fontsize1>
 <fontsize2>11</fontsize2>
 <fontsize3>20</fontsize3>
-<bindingmain0>CTRL+q</bindingmain0>
+<bindingmain0>CTRL+h</bindingmain0>
 <bindingmain1>CTRL+j</bindingmain1>
-<bindingmain4>CTRL+w</bindingmain4>
-<bindingmain5>CTRL+c</bindingmain5>
+<bindingmain4>CTRL+n</bindingmain4>
+<bindingmain5>CTRL+s</bindingmain5>
 <bindingmain6>CTRL+l</bindingmain6>
 <bindingmain9>CTRL+f</bindingmain9>
-<bindingmain11>CTRL+ALT+c</bindingmain11>
 <bindingmain15>CTRL+SHIFT+s</bindingmain15>
-<bindingmain18>SHIFT+META+t</bindingmain18>
-<bindingmain19>CTRL+r</bindingmain19>
-<bindinggeneral0>CTRL+s</bindinggeneral0>
-<bindinggeneral1>CTRL+a</bindinggeneral1>
-<bindinggeneral2>CTRL+UP</bindinggeneral2>
-<bindinggeneral3>CTRL+DOWN</bindinggeneral3>
-<bindinggeneral4>META+m</bindinggeneral4>
-<bindinggeneral5>CTRL+d</bindinggeneral5>
-<bindinggeneral6>CTRL+RIGHT</bindinggeneral6>
-<bindinggeneral7>BACKSLASH</bindinggeneral7>
-<bindinggeneral8>TAB</bindinggeneral8>
-<bindingcard1>ALT+q</bindingcard1>
-<bindingcard2>CTRL+SHIFT+MINUS</bindingcard2>
-<bindingcard3>CTRL+SHIFT+EQUALS</bindingcard3>
-<bindingcard4>CTRL+MINUS</bindingcard4>
-<bindingcard5>CTRL+EQUALS</bindingcard5>
-<bindingcard6>1</bindingcard6>
+<bindinggeneral0>CTRL+d</bindinggeneral0>
+<bindinggeneral1>CTRL+u</bindinggeneral1>
+<bindinggeneral2>CTRL+RIGHT</bindinggeneral2>
+<bindinggeneral5>CTRL+r</bindinggeneral5>
+<bindinggeneral6>CTRL+SHIFT+c</bindinggeneral6>
+<bindingcard3>CTRL+EQUALS</bindingcard3>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
@@ -78,14 +61,9 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
-<libraryignoredoubles>1</libraryignoredoubles>
-<recentformat>-1</recentformat>
-<filterkeystroke>1</filterkeystroke>
-<deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
-<prevtilt>80.000000</prevtilt>
-<isdownloadallmissing>1</isdownloadallmissing>
+<tilt>40.000000</tilt>
 
 </pluginpreferences>
