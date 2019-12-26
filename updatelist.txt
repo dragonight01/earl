@@ -1,8 +1,8 @@
 earl	12/26/19
 plugins/earl/plugininfo.html	https://raw.githubusercontent.com/dragonight01/earl/master/plugininfo.html	327169
 plugins/earl/plugininfo.txt	https://raw.githubusercontent.com/dragonight01/earl/master/plugininfo.txt	327120
-plugins/earl/cardback.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/cardback.jpg	42850
-plugins/earl/spawned.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/spawned.jpg	-11246
+plugins/earl/sets/setimages/cardback.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/cardback.jpg	42850
+plugins/earl/sets/setimages/spawned.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/spawned.jpg	-11246
 plugins/earl/sets/carddata.txt	https://raw.githubusercontent.com/dragonight01/earl/master/sets/carddata.txt	262730
 CardImageURLs:
 Set1/S101.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_battlefield.jpg
