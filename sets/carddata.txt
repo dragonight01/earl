@@ -1,4 +1,4 @@
-Name	Kingdom	ImageFile	Type	Rarity
+Name	Set	ImageFile	Type	Rarity
 King Of Dinos	Dino	king_of_dinos	Creature	Ultra Rare
 Enosaurus	Dino	enosaurus	Creature	Common
 Peptosaur	Dino	peptosaur	Creature	Common
