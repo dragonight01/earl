@@ -4,6 +4,54 @@ plugins/earl/plugininfo.txt	https://raw.githubusercontent.com/dragonight01/earl/
 plugins/earl/cardback.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/cardback.jpg	42850
 plugins/earl/spawned.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/spawned.jpg	-11246
 plugins/earl/sets/carddata.txt	https://raw.githubusercontent.com/dragonight01/earl/master/sets/carddata.txt	262730
-plugins/earl/CardImageURLs.txt	https://raw.githubusercontent.com/dragonight01/earl/master/CardImageURLs1.txt	1
-CardURLFiles:
-CardImageURLs1.txt
+CardImageURLs:
+Set1/S101.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_battlefield.jpg
+Set1/S102.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_blaster.jpg
+Set1/S103.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_commander.jpg
+Set1/S104.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_conquerer_of_the_thousand_universes.jpg
+Set1/S105.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_metamorph.jpg
+Set1/S106.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_of_light_oman.jpg
+Set1/S107.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_overlord.jpg
+Set1/S108.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_spawn.jpg
+Set1/S109.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_troop.jpg
+Set1/S110.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_ufo.jpg
+Set1/S111.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/archer_station.jpg
+Set1/S112.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/asteroid_barrier.jpg
+Set1/S113.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/baby_dino.jpg
+Set1/S114.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/ballista.jpg
+Set1/S115.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/bishop_of_the_white_knight.jpg
+Set1/S116.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/castle.jpg
+Set1/S117.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/catapult.jpg
+Set1/S118.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/dinio_priest_of_the_dinos.jpg
+Set1/S119.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/dino_egg.jpg
+Set1/S120.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/dino_eggs.jpg
+Set1/S121.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/dino_island.jpg
+Set1/S122.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/doragon_alien_of_hell.jpg
+Set1/S123.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/enosaurus.jpg
+Set1/S124.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/extinction.jpg
+Set1/S125.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/fossil_excavation.jpg
+Set1/S126.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/fossil_restoration.jpg
+Set1/S127.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/greater_minion.jpg
+Set1/S128.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/king_of_dinos.jpg
+Set1/S129.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/knight_of_light_oman.jpg
+Set1/S130.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/lesser_minion.jpg
+Set1/S131.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/metamorphic_armour.jpg
+Set1/S132.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/meteor_impact.jpg
+Set1/S133.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/oblivion_dino_of_apocolypse.jpg
+Set1/S134.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/oman_leader_of_heroes.jpg
+Set1/S135.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/omans_call.jpg
+Set1/S136.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/omans_companion.jpg
+Set1/S137.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/peptosaur.jpg
+Set1/S138.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/personal_builder.jpg
+Set1/S139.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/planet_zarxxig.jpg
+Set1/S140.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/resupply.jpg
+Set1/S141.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/shrine_of_the_alien_overlord.jpg
+Set1/S142.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/shrine_of_the_dinosaur_lord.jpg
+Set1/S143.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/soldier_of_zarxxig.jpg
+Set1/S144.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/squire_of_oman.jpg
+Set1/S145.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/strongest_shield.jpg
+Set1/S146.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/tail_slam.jpg
+Set1/S147.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/trained_commandant_oman.jpg
+Set1/S148.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/trusty_swordsman_orion.jpg
+Set1/S149.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/volcano.jpg
+Set1/S150.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/warrior_of_protection_garret.jpg
