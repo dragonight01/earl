@@ -1,6 +1,6 @@
 <plugin>
 
-<playerstat><label>Health</label><initialvalue>20</initialvalue></playerstat>
+<playerstat><label>Health</label><initialvalue>10</initialvalue></playerstat>
 <playerstat><label>Energy</label><initialvalue>1</initialvalue></playerstat>
 <deckzone>
 	<label>Deck</label>

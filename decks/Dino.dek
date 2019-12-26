@@ -3,9 +3,6 @@
 		<game>Earl</game>
 	</meta>
 	<superzone name="Deck">
-		<card><name id="dinio_priest_of_the_dinos">&quot;Dinio, Priest of the Dinos&quot;</name><set>Dino</set></card>
-		<card><name id="dinio_priest_of_the_dinos">&quot;Dinio, Priest of the Dinos&quot;</name><set>Dino</set></card>
-		<card><name id="dinio_priest_of_the_dinos">&quot;Dinio, Priest of the Dinos&quot;</name><set>Dino</set></card>
 		<card><name id="dino_eggs">Dino Eggs</name><set>Dino</set></card>
 		<card><name id="dino_eggs">Dino Eggs</name><set>Dino</set></card>
 		<card><name id="dino_eggs">Dino Eggs</name><set>Dino</set></card>
@@ -42,9 +39,12 @@
 		<card><name id="asteroid_barrier">Asteroid Barrier</name><set>Dino</set></card>
 		<card><name id="asteroid_barrier">Asteroid Barrier</name><set>Dino</set></card>
 		<card><name id="asteroid_barrier">Asteroid Barrier</name><set>Dino</set></card>
-		<card><name id="oblivion_dino_of_apocalypse">&quot;Oblivion, Dino Of Apocalypse&quot;</name><set>Dino</set></card>
-		<card><name id="oblivion_dino_of_apocalypse">&quot;Oblivion, Dino Of Apocalypse&quot;</name><set>Dino</set></card>
-		<card><name id="oblivion_dino_of_apocalypse">&quot;Oblivion, Dino Of Apocalypse&quot;</name><set>Dino</set></card>
+		<card><name id="dinio_priest_of_the_dinos">Dinio, Priest of the Dinos</name><set>Dino</set></card>
+		<card><name id="dinio_priest_of_the_dinos">Dinio, Priest of the Dinos</name><set>Dino</set></card>
+		<card><name id="dinio_priest_of_the_dinos">Dinio, Priest of the Dinos</name><set>Dino</set></card>
+		<card><name id="oblivion_dino_of_apocolypse">Oblivion, Dino Of Apocalypse</name><set>Dino</set></card>
+		<card><name id="oblivion_dino_of_apocolypse">Oblivion, Dino Of Apocalypse</name><set>Dino</set></card>
+		<card><name id="oblivion_dino_of_apocolypse">Oblivion, Dino Of Apocalypse</name><set>Dino</set></card>
 	</superzone>
 	<superzone name="Starting">
 		<card><name id="dino_island">Dino Island</name><set>Dino</set></card>

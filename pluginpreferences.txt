@@ -3,6 +3,7 @@
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
+<recenttablebackgrounds>testbackground.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>feltbackground.jpg</recenttablebackgrounds>
 <recentzonebackgrounds>wide.jpg</recentzonebackgrounds>
 <recentzonebackgrounds>novabackground.jpg</recentzonebackgrounds>
