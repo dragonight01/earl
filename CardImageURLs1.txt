@@ -2,12 +2,12 @@ CardImageURLs:
 Set1/S101.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_battlefield.jpg
 Set1/S102.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_blaster.jpg
 Set1/S103.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_commander.jpg
-Set1/S104.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_conqueror_of_the_thousand_universes_yxxilizyzygzx.jpg
+Set1/S104.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_conquerer_of_the_thousand_universes.jpg
 Set1/S105.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_metamorph.jpg
 Set1/S106.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_of_light_oman.jpg
-Set1/S107.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_overlord_yxilig.jpg
+Set1/S107.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_overlord.jpg
 Set1/S108.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_spawn.jpg
-Set1/S109.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_troop_yoglizz.jpg
+Set1/S109.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_troop.jpg
 Set1/S110.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/alien_ufo.jpg
 Set1/S111.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/archer_station.jpg
 Set1/S112.jpg	https://raw.githubusercontent.com/dragonight01/earl/master/sets/setimages/Set1/asteroid_barrier.jpg
