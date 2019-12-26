@@ -127,6 +127,6 @@
 
 <definition>
 	<kind>REUSECARDIMAGES</kind>
-	<value>yes</value>
+	<value>no</value>
 </definition>
 </plugin>
