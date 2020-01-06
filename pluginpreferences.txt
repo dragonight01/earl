@@ -3,6 +3,7 @@
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
+<recenttablebackgrounds>testbackground.jpg</recenttablebackgrounds>
 <canned>(PoP?) Pass or Play?</canned>
 <canned>Pass.</canned>
 <canned>Proceed.</canned>
@@ -54,7 +55,9 @@
 <bindinggeneral2>CTRL+RIGHT</bindinggeneral2>
 <bindinggeneral3>META+DOWN</bindinggeneral3>
 <bindinggeneral6>CTRL+SHIFT+c</bindinggeneral6>
+<bindingcard2>CTRL+SHIFT+MINUS</bindingcard2>
 <bindingcard3>CTRL+EQUALS</bindingcard3>
+<bindingcard4>CTRL+MINUS</bindingcard4>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
