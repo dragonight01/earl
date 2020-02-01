@@ -1,3 +1,4 @@
-RECENTDECK0:Dino.dek
-RECENTDECK1:Alien.dek
-RECENTDECK2:Medieval.dek
+RECENTDECK0:Cultist.dek
+RECENTDECK1:Dino.dek
+RECENTDECK2:Alien.dek
+RECENTDECK3:Medieval.dek
