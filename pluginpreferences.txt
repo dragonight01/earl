@@ -24,6 +24,7 @@
 <canned>/draw6</canned>
 <canned>/draw8</canned>
 <canned>Good game.</canned>
+<tokens>Dino Egg Token</tokens>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>Play-Regular.ttf</fontkind0pos1>
 <fontkind0pos2>times.ttf</fontkind0pos2>
@@ -54,10 +55,15 @@
 <bindinggeneral1>CTRL+u</bindinggeneral1>
 <bindinggeneral2>CTRL+RIGHT</bindinggeneral2>
 <bindinggeneral3>META+DOWN</bindinggeneral3>
+<bindinggeneral4>META+m</bindinggeneral4>
 <bindinggeneral6>CTRL+SHIFT+c</bindinggeneral6>
+<bindinggeneral7>BACKSLASH</bindinggeneral7>
+<bindinggeneral8>TAB</bindinggeneral8>
+<bindingcard1>ALT+q</bindingcard1>
 <bindingcard2>CTRL+SHIFT+MINUS</bindingcard2>
 <bindingcard3>CTRL+EQUALS</bindingcard3>
 <bindingcard4>CTRL+MINUS</bindingcard4>
+<bindingcard6>1</bindingcard6>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
