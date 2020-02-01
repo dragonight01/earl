@@ -66,3 +66,4 @@ Shroud	Cultist	S213	Magic	Rare
 Gift of Death	Cultist	S214	Magic	Rare
 Illusion of Souls	Cultist	S215	Magic	Common
 Rakshasas Nox	Cultist	S216	Creature	Uncommon
+Shrine of Shadowend	Cultist	S217	Base	Rare
