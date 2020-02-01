@@ -46,4 +46,7 @@
 		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
 		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
 	</superzone>
+	<superzone name="Starting">
+		<card><name id="S217">Shrine of Shadowend</name><set>Cultist</set></card>
+	</superzone>
 </deck>
