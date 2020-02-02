@@ -32,9 +32,9 @@
 </gamezone>
 
 			<phase><label>Draw</label></phase>
-			<phase><label>Main</label></phase>
+			<phase><label>1st Phase</label></phase>
 			<phase><label>Battle</label></phase>
-			<phase><label>End</label></phase>
+			<phase><label>2nd Phase</label></phase>
 
 <generalfunction>
 	<label>Draw</label>

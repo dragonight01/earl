@@ -51,7 +51,7 @@
 <bindinggeneral5>CTRL+r</bindinggeneral5>
 <bindinggeneral7>CTRL+n</bindinggeneral7>
 <bindinggeneral8>CTRL+m</bindinggeneral8>
-<bindingcard2>TAB</bindingcard2>
+<bindingcard2>CTRL+BACKSPACE</bindingcard2>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
