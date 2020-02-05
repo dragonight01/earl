@@ -5,6 +5,7 @@
 <recentskins>default</recentskins>
 <recenttablebackgrounds>feltbackground.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>testbackground.jpg</recenttablebackgrounds>
+<recentzonebackgrounds>novabackground.jpg</recentzonebackgrounds>
 <canned>/draw5</canned>
 <canned>/shuffle deck</canned>
 <canned>Good Luck!</canned>
