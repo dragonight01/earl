@@ -40,8 +40,8 @@ Peptosaur	Dino	S138	Creature	Common
 Personal Builder	Medieval	S139	Creature	Common
 Planet Zarxxig	Alien	S140	Base	Common
 Resupply	Medieval	S141	Magic	Common
-Shrine of the Alien Overlord	Alien	S142	Structure	Rare
-Shrine of the Dinosaur Lord	Alien	S143	Structure	Common
+Invasion	Alien	S142	Magic	Rare
+"Xylzig, Wanderer of Space"	Alien	S143	Creature	Common
 Soldier of Zarxxig	Alien	S144	Creature	Common
 Squire of Oman	Medieval	S145	Creature	Common
 Strongest Shield	Medieval	S146	Magic	Common

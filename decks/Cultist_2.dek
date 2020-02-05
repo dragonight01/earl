@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>Earl</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S219">Azroxath Ig&apos;drelliuth</name><set>Cultist</set></card>
+		<card><name id="S218">Curse of Sacrifice</name><set>Cultist</set></card>
+		<card><name id="S218">Curse of Sacrifice</name><set>Cultist</set></card>
+		<card><name id="S218">Curse of Sacrifice</name><set>Cultist</set></card>
+		<card><name id="S203">Cidolfus Payne</name><set>Cultist</set></card>
+		<card><name id="S203">Cidolfus Payne</name><set>Cultist</set></card>
+		<card><name id="S203">Cidolfus Payne</name><set>Cultist</set></card>
+		<card><name id="S211">Belle Snow</name><set>Cultist</set></card>
+		<card><name id="S211">Belle Snow</name><set>Cultist</set></card>
+		<card><name id="S211">Belle Snow</name><set>Cultist</set></card>
+		<card><name id="S209">Diamanda Addington</name><set>Cultist</set></card>
+		<card><name id="S209">Diamanda Addington</name><set>Cultist</set></card>
+		<card><name id="S209">Diamanda Addington</name><set>Cultist</set></card>
+		<card><name id="S210">Emma Dupree</name><set>Cultist</set></card>
+		<card><name id="S210">Emma Dupree</name><set>Cultist</set></card>
+		<card><name id="S210">Emma Dupree</name><set>Cultist</set></card>
+		<card><name id="S214">Gift of Death</name><set>Cultist</set></card>
+		<card><name id="S214">Gift of Death</name><set>Cultist</set></card>
+		<card><name id="S214">Gift of Death</name><set>Cultist</set></card>
+		<card><name id="S204">Iluz Periculum</name><set>Cultist</set></card>
+		<card><name id="S204">Iluz Periculum</name><set>Cultist</set></card>
+		<card><name id="S204">Iluz Periculum</name><set>Cultist</set></card>
+		<card><name id="S216">Rakshasas Nox</name><set>Cultist</set></card>
+		<card><name id="S216">Rakshasas Nox</name><set>Cultist</set></card>
+		<card><name id="S216">Rakshasas Nox</name><set>Cultist</set></card>
+		<card><name id="S213">Shroud</name><set>Cultist</set></card>
+		<card><name id="S213">Shroud</name><set>Cultist</set></card>
+		<card><name id="S213">Shroud</name><set>Cultist</set></card>
+		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
+		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
+		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
+		<card><name id="S208">Curse of Catastrophe</name><set>Cultist</set></card>
+		<card><name id="S208">Curse of Catastrophe</name><set>Cultist</set></card>
+		<card><name id="S208">Curse of Catastrophe</name><set>Cultist</set></card>
+		<card><name id="S202">Heinrik Moonfall</name><set>Cultist</set></card>
+		<card><name id="S202">Heinrik Moonfall</name><set>Cultist</set></card>
+		<card><name id="S202">Heinrik Moonfall</name><set>Cultist</set></card>
+		<card><name id="S215">Illusion of Souls</name><set>Cultist</set></card>
+		<card><name id="S215">Illusion of Souls</name><set>Cultist</set></card>
+		<card><name id="S215">Illusion of Souls</name><set>Cultist</set></card>
+		<card><name id="S201">Irvine La Croix</name><set>Cultist</set></card>
+		<card><name id="S201">Irvine La Croix</name><set>Cultist</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="S217">Shrine of Shadowend</name><set>Cultist</set></card>
+	</superzone>
+</deck>
