@@ -12,9 +12,6 @@
 		<card><name id="S208">Curse of Catastrophe</name><set>Cultist</set></card>
 		<card><name id="S208">Curse of Catastrophe</name><set>Cultist</set></card>
 		<card><name id="S208">Curse of Catastrophe</name><set>Cultist</set></card>
-		<card><name id="S209">Diamand Addington</name><set>Cultist</set></card>
-		<card><name id="S209">Diamand Addington</name><set>Cultist</set></card>
-		<card><name id="S209">Diamand Addington</name><set>Cultist</set></card>
 		<card><name id="S210">Emma Dupree</name><set>Cultist</set></card>
 		<card><name id="S210">Emma Dupree</name><set>Cultist</set></card>
 		<card><name id="S210">Emma Dupree</name><set>Cultist</set></card>
@@ -45,6 +42,9 @@
 		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
 		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
 		<card><name id="S207">The Crimson Curse</name><set>Cultist</set></card>
+		<card><name id="S209">Diamanda Addington</name><set>Cultist</set></card>
+		<card><name id="S209">Diamanda Addington</name><set>Cultist</set></card>
+		<card><name id="S209">Diamanda Addington</name><set>Cultist</set></card>
 	</superzone>
 	<superzone name="Starting">
 		<card><name id="S217">Shrine of Shadowend</name><set>Cultist</set></card>
