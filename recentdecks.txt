@@ -1,5 +1,5 @@
-RECENTDECK0:Cultist.dek
-RECENTDECK1:Cultist_2.dek
+RECENTDECK0:Cultist_2.dek
+RECENTDECK1:Cultist.dek
 RECENTDECK2:Dino.dek
 RECENTDECK3:Alien.dek
 RECENTDECK4:Medieval.dek
