@@ -15,9 +15,6 @@
 		<card><name id="S144">Soldier of Zarxxig</name><set>Alien</set></card>
 		<card><name id="S144">Soldier of Zarxxig</name><set>Alien</set></card>
 		<card><name id="S144">Soldier of Zarxxig</name><set>Alien</set></card>
-		<card><name id="S142">Shrine of the Alien Overlord</name><set>Alien</set></card>
-		<card><name id="S142">Shrine of the Alien Overlord</name><set>Alien</set></card>
-		<card><name id="S142">Shrine of the Alien Overlord</name><set>Alien</set></card>
 		<card><name id="S103">Alien Commander</name><set>Alien</set></card>
 		<card><name id="S103">Alien Commander</name><set>Alien</set></card>
 		<card><name id="S103">Alien Commander</name><set>Alien</set></card>
@@ -45,6 +42,9 @@
 		<card><name id="S133">&quot;Oblivion, Alien Of Apocalypse&quot;</name><set>Alien</set></card>
 		<card><name id="S133">&quot;Oblivion, Alien Of Apocalypse&quot;</name><set>Alien</set></card>
 		<card><name id="S133">&quot;Oblivion, Alien Of Apocalypse&quot;</name><set>Alien</set></card>
+		<card><name id="S143">&quot;Xylzig, Wanderer of Space&quot;</name><set>Alien</set></card>
+		<card><name id="S143">&quot;Xylzig, Wanderer of Space&quot;</name><set>Alien</set></card>
+		<card><name id="S143">&quot;Xylzig, Wanderer of Space&quot;</name><set>Alien</set></card>
 	</superzone>
 	<superzone name="Starting">
 		<card><name id="S140">Planet Zarxxig</name><set>Alien</set></card>
