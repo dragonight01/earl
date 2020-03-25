@@ -39,12 +39,12 @@
 		<card><name id="S112">Asteroid Barrier</name><set>Dino</set></card>
 		<card><name id="S112">Asteroid Barrier</name><set>Dino</set></card>
 		<card><name id="S112">Asteroid Barrier</name><set>Dino</set></card>
-		<card><name id="S118">&quot;Dinio, Priest of the Dinos&quot;</name><set>Dino</set></card>
-		<card><name id="S118">&quot;Dinio, Priest of the Dinos&quot;</name><set>Dino</set></card>
-		<card><name id="S118">&quot;Dinio, Priest of the Dinos&quot;</name><set>Dino</set></card>
-		<card><name id="S134">&quot;Oblivion, Dino Of Apocalypse&quot;</name><set>Dino</set></card>
-		<card><name id="S134">&quot;Oblivion, Dino Of Apocalypse&quot;</name><set>Dino</set></card>
-		<card><name id="S134">&quot;Oblivion, Dino Of Apocalypse&quot;</name><set>Dino</set></card>
+		<card><name id="S118">Dinio, Priest of the Dinos</name><set>Dino</set></card>
+		<card><name id="S118">Dinio, Priest of the Dinos</name><set>Dino</set></card>
+		<card><name id="S118">Dinio, Priest of the Dinos</name><set>Dino</set></card>
+		<card><name id="S134">Oblivion, Dino Of Apocalypse</name><set>Dino</set></card>
+		<card><name id="S134">Oblivion, Dino Of Apocalypse</name><set>Dino</set></card>
+		<card><name id="S134">Oblivion, Dino Of Apocalypse</name><set>Dino</set></card>
 	</superzone>
 	<superzone name="Starting">
 		<card><name id="S121">Dino Island</name><set>Dino</set></card>
