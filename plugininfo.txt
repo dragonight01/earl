@@ -1,7 +1,7 @@
 <plugin>
 
 <playerstat><label>Health</label><initialvalue>15</initialvalue></playerstat>
-<playerstat><label>Energy</label><initialvalue>1</initialvalue></playerstat>
+<playerstat><label>Energy</label><initialvalue>0</initialvalue></playerstat>
 <deckzone>
 	<label>Deck</label>
 	<shuffle>yes</shuffle>
