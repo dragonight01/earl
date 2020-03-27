@@ -18,15 +18,9 @@
 		<card><name id="S103">Alien Commander</name><set>Alien</set></card>
 		<card><name id="S103">Alien Commander</name><set>Alien</set></card>
 		<card><name id="S103">Alien Commander</name><set>Alien</set></card>
-		<card><name id="S108">Alien Spawn</name><set>Alien</set></card>
-		<card><name id="S108">Alien Spawn</name><set>Alien</set></card>
-		<card><name id="S108">Alien Spawn</name><set>Alien</set></card>
 		<card><name id="S101">Alien Battlefield</name><set>Alien</set></card>
 		<card><name id="S101">Alien Battlefield</name><set>Alien</set></card>
 		<card><name id="S101">Alien Battlefield</name><set>Alien</set></card>
-		<card><name id="S104">Alien Conquerer of the Thousand Universes, Yxxilizyzygzx</name><set>Alien</set></card>
-		<card><name id="S104">Alien Conquerer of the Thousand Universes, Yxxilizyzygzx</name><set>Alien</set></card>
-		<card><name id="S104">Alien Conquerer of the Thousand Universes, Yxxilizyzygzx</name><set>Alien</set></card>
 		<card><name id="S107">Alien Overlord, Yxxilig</name><set>Alien</set></card>
 		<card><name id="S107">Alien Overlord, Yxxilig</name><set>Alien</set></card>
 		<card><name id="S107">Alien Overlord, Yxxilig</name><set>Alien</set></card>
@@ -45,6 +39,12 @@
 		<card><name id="S106">Alien of Light, Oman</name><set>Alien</set></card>
 		<card><name id="S106">Alien of Light, Oman</name><set>Alien</set></card>
 		<card><name id="S106">Alien of Light, Oman</name><set>Alien</set></card>
+		<card><name id="S108">Kozex, Changeling</name><set>Alien</set></card>
+		<card><name id="S108">Kozex, Changeling</name><set>Alien</set></card>
+		<card><name id="S108">Kozex, Changeling</name><set>Alien</set></card>
+		<card><name id="S104">Uugvak, Conquerer of the Universe</name><set>Alien</set></card>
+		<card><name id="S104">Uugvak, Conquerer of the Universe</name><set>Alien</set></card>
+		<card><name id="S104">Uugvak, Conquerer of the Universe</name><set>Alien</set></card>
 	</superzone>
 	<superzone name="Starting">
 		<card><name id="S140">Planet Zarxxig</name><set>Alien</set></card>
