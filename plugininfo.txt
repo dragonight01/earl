@@ -121,7 +121,7 @@
 <kind>CLEARCARD</kind>
 </cardfunction>
 <listofcardsoundfiles>
-<soundentry><soundfile>Ride</soundfile><field>Type</field></soundentry><data>Blaster Blade</data></soundentry>
+<soundentry><soundfile>Earl_Theme</soundfile><field>Earl_Theme</field></soundentry><data>Earl_Theme</data></soundentry>
 </listofcardsoundfiles>
 
 
