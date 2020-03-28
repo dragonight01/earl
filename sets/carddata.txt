@@ -2,12 +2,12 @@ Name	Kingdom	ImageFile	Type	Rarity
 Alien Battlefield	Alien	S101	Structure	Common
 Alien Blaster	Alien	S102	Magic	Common
 Alien Commander	Alien	S103	Creature	Common
-Uugvak, Conquerer of the Universe	Alien	S104	Creature	Ultimate Rare
+"Uugvak, Conquerer of the Universe"	Alien	S104	Creature	Ultimate Rare
 Alien Metamorph	Alien	S105	Creature	Common
-Alien of Light, Oman	Alien	S106	Creature	Rare
-Alien Overlord, Yxxilig	Alien	S107	Creature	Ultra Rare
-Kozex, Changeling	Alien	S108	Creature	Common
-Alien Troop, Yiglizz	Alien	S109	Creature	Common
+"Alien of Light, Oman"	Alien	S106	Creature	Rare
+"Alien Overlord, Yxxilig"	Alien	S107	Creature	Ultra Rare
+"Kozex, Changeling"	Alien	S108	Creature	Common
+"Alien Troop, Yiglizz"	Alien	S109	Creature	Common
 Alien UFO	Alien	S110	Structure	Uncommon
 Archer Station	Medieval	S111	Structure	Common
 Asteroid Barrier	Dino	S112	Magic	Common
@@ -16,24 +16,24 @@ Ballista	Medieval	S114	Structure	Uncommon
 Bishop of the White Knight	Medieval	S115	Creature	Common
 Castle	Medieval	S116	Base	Common
 Catapult	Medieval	S117	Structure	Common
-Dinio, Priest of the Dinos	Dino	S118	Creature	Common
+"Dinio, Priest of the Dinos"	Dino	S118	Creature	Common
 Dino Egg Token	Dino	S119	Token	Common
 Dino Eggs	Dino	S120	Magic	Uncommon
 Dino Island	Dino	S121	Base	Common
-Doragon, Alien of Hell	Alien	S122	Creature	Common
+"Doragon, Alien of Hell"	Alien	S122	Creature	Common
 Enosaurus	Dino	S123	Creature	Common
 Extinction	Dino	S124	Magic	Common
 Fossil Excavation	Dino	S125	Magic	Common
 Fossil Restoration	Dino	S126	Magic	Rare
 Greater Minion	Generic	S127	Creature	Common
 King Of Dinos	Dino	S128	Creature	Ultra Rare
-Knight of Light, Oman	Medieval	S129	Creature	Ultra Rare
+"Knight of Light, Oman"	Medieval	S129	Creature	Ultra Rare
 Lesser Minion	Generic	S130	Creature	Common
 Metamorphic Armour	Generic	S131	Equip	Uncommon
 Meteor Impact	Dino	S132	Magic	Common
-Oblivion, Alien Of Apocalypse	Alien	S133	Creature	Rare
-Oblivion, Dino Of Apocalypse	Dino	S134	Creature	Ultimate Rare
-Oman, Leader of Heroes	Medieval	S135	Creature	Ultimate Rare
+"Oblivion, Alien Of Apocalypse"	Alien	S133	Creature	Rare
+"Oblivion, Dino Of Apocalypse"	Dino	S134	Creature	Ultimate Rare
+"Oman, Leader of Heroes"	Medieval	S135	Creature	Ultimate Rare
 Oman's Call	Medieval	S136	Magic	Common
 Oman's Companion	Medieval	S137	Magic	Common
 Peptosaur	Dino	S138	Creature	Common
@@ -41,15 +41,15 @@ Personal Builder	Medieval	S139	Creature	Common
 Planet Zarxxig	Alien	S140	Base	Common
 Resupply	Medieval	S141	Magic	Common
 Invasion	Alien	S142	Magic	Rare
-Xylzig, Wanderer of Space	Alien	S143	Creature	Common
+"Xylzig, Wanderer of Space"	Alien	S143	Creature	Common
 Soldier of Zarxxig	Alien	S144	Creature	Common
 Squire of Oman	Medieval	S145	Creature	Common
 Strongest Shield	Medieval	S146	Magic	Common
 Tail Slam	Dino	S147	Magic	Common
-Trained Commandant, Oman	Medieval	S148	Creature	Common
-Trusty Swordsman, Orion	Medieval	S149	Creature	Rare
+"Trained Commandant, Oman"	Medieval	S148	Creature	Common
+"Trusty Swordsman, Orion"	Medieval	S149	Creature	Rare
 Volcano	Dino	S150	Structure	Uncommon
-Warrior of Protection, Garret	Medieval	S151	Creature	Common
+"Warrior of Protection, Garret"	Medieval	S151	Creature	Common
 Irvine La Croix	Cultist	S201	Creature	Common
 Heinrik Moonfall	Cultist	S202	Creature	Common
 Cidolfus Payne	Cultist	S203	Creature	Common
@@ -69,3 +69,6 @@ Rakshasas Nox	Cultist	S216	Creature	Common
 Shrine of Shadowend	Cultist	S217	Base	Rare
 Curse of Sacrifice	Cultist	S218	Magic	Ultra Rare
 Azroxath Ig'drelliuth	Cultist	S219	GOD	Ultimate Rare
+Look Into the Future	Generic	S220	Magic	Rare
+Ice Mammoth	Generic	S221	Creature	Rare
+Necromancy	Generic	S222	Magic	Rare
