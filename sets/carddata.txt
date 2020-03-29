@@ -25,10 +25,10 @@ Enosaurus	Dino	S123	Creature	Common
 Extinction	Dino	S124	Magic	Common
 Fossil Excavation	Dino	S125	Magic	Common
 Fossil Restoration	Dino	S126	Magic	Rare
-Greater Minion	Generic	S127	Creature	Common
+Flying Snake	Generic	S127	Creature	Common
 King Of Dinos	Dino	S128	Creature	Ultra Rare
 "Knight of Light, Oman"	Medieval	S129	Creature	Ultra Rare
-Lesser Minion	Generic	S130	Creature	Common
+Tundra Fox	Generic	S130	Creature	Common
 Metamorphic Armour	Generic	S131	Equip	Uncommon
 Meteor Impact	Dino	S132	Magic	Common
 "Oblivion, Alien Of Apocalypse"	Alien	S133	Creature	Rare
