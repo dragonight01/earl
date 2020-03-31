@@ -58,6 +58,7 @@
 <bindinggeneral2>CTRL+UP</bindinggeneral2>
 <bindinggeneral3>CTRL+DOWN</bindinggeneral3>
 <bindinggeneral4>CTRL+e</bindinggeneral4>
+<bindinggeneral5>CTRL+d</bindinggeneral5>
 <bindinggeneral6>CTRL+RIGHT</bindinggeneral6>
 <bindinggeneral7>CTRL+n</bindinggeneral7>
 <bindinggeneral8>CTRL+m</bindinggeneral8>
