@@ -79,6 +79,12 @@
 </generalfunction>
 <generalfunction><label>Spawn card</label><kind>SPAWNCARD</kind><includeasbutton>no</includeasbutton></generalfunction>
 <cardfunction>
+<cardfunction><label>Green +1</label><kind>ADDCOUNTERGREEN</kind><includeasbutton>yes</includeasbutton><PositionX>0.3</PositionX><PositionY>-0.06</PositionY></cardfunction>
+<cardfunction><label>Green -1</label><kind>REMOVECOUNTERGREEN</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Red +1</label><kind>ADDCOUNTERRED</kind><includeasbutton>yes</includeasbutton><PositionX>0.5</PositionX><PositionY>-0.06</PositionY></cardfunction>
+<cardfunction><label>Red -1</label><kind>REMOVECOUNTERRED</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Blue +1</label><kind>ADDCOUNTERBLUE</kind><includeasbutton>yes</includeasbutton><PositionX>0.7</PositionX><PositionY>-0.06</PositionY></cardfunction>
+<cardfunction><label>Blue -1</label><kind>REMOVECOUNTERBLUE</kind><includeasbutton>yes</includeasbutton></cardfunction>
 	<label>Stand</label>
 	<kind>MAKERIGHT0DEGREES</kind>
 	<includeasbutton>no</includeasbutton>

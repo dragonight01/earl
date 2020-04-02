@@ -69,6 +69,10 @@ Rakshasas Nox	Cultist	S216	Creature	Common
 Shrine of Shadowend	Cultist	S217	Base	Rare
 Curse of Sacrifice	Cultist	S218	Magic	Ultra Rare
 Azroxath Ig'drelliuth	Cultist	S219	GOD	Ultimate Rare
-Look Into the Future	Generic	S220	Magic	Rare
+Foresight	Generic	S220	Magic	Rare
 Ice Mammoth	Generic	S221	Creature	Rare
 Necromancy	Generic	S222	Magic	Rare
+Chaos Wolf	Generic	S223	Creature	Common
+Flaming Eagle	Generic	S224	Creature	Common
+Ruins of the Night	Generic	S225	Structure	Ultra Rare
+Shrine of Everlasting Day	Generic	S226	Structure	Ultra Rare
