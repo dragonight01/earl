@@ -1,5 +1,6 @@
 <save>
-<turn>2</turn>
+<turn>5</turn>
+<phase>1</phase>
 <player>
 <name>dragonight01</name>
 <seat>0</seat>
@@ -8,121 +9,122 @@
 </playerstats>
 <zone0>
 <visibleto>dragonight01</visibleto>
-<card><id>52</id><owner>dragonight01</owner></card>
-<card><id>15</id><owner>dragonight01</owner></card>
-<card><id>55</id><owner>dragonight01</owner></card>
-<card><id>38</id><owner>dragonight01</owner></card>
-<card><id>36</id><owner>dragonight01</owner></card>
-<card><id>59</id><owner>dragonight01</owner></card>
+<card><id>42</id><owner>dragonight01</owner></card>
+<card><id>47</id><owner>dragonight01</owner></card>
+<card><id>67</id><owner>dragonight01</owner></card>
+<card><id>48</id><owner>dragonight01</owner></card>
 </zone0>
 <zone1>
-<card><id>39</id><owner>dragonight01</owner></card>
-<card><id>55</id><owner>dragonight01</owner></card>
-<card><id>12</id><owner>dragonight01</owner></card>
-<card><id>28</id><owner>dragonight01</owner></card>
+<card><id>33</id><owner>dragonight01</owner></card>
+<card><id>20</id><owner>dragonight01</owner></card>
+<card><id>54</id><owner>dragonight01</owner></card>
+<card><id>2</id><owner>dragonight01</owner></card>
+<card><id>43</id><owner>dragonight01</owner></card>
 <card><id>52</id><owner>dragonight01</owner></card>
-<card><id>35</id><owner>dragonight01</owner></card>
-<card><id>46</id><owner>dragonight01</owner></card>
-<card><id>40</id><owner>dragonight01</owner></card>
+<card><id>67</id><owner>dragonight01</owner></card>
+<card><id>2</id><owner>dragonight01</owner></card>
+<card><id>27</id><owner>dragonight01</owner></card>
 <card><id>27</id><owner>dragonight01</owner></card>
 <card><id>52</id><owner>dragonight01</owner></card>
-<card><id>15</id><owner>dragonight01</owner></card>
-<card><id>38</id><owner>dragonight01</owner></card>
-<card><id>28</id><owner>dragonight01</owner></card>
-<card><id>46</id><owner>dragonight01</owner></card>
+<card><id>8</id><owner>dragonight01</owner></card>
+<card><id>20</id><owner>dragonight01</owner></card>
+<card><id>33</id><owner>dragonight01</owner></card>
+<card><id>48</id><owner>dragonight01</owner></card>
+<card><id>47</id><owner>dragonight01</owner></card>
+<card><id>8</id><owner>dragonight01</owner></card>
+<card><id>43</id><owner>dragonight01</owner></card>
+<card><id>24</id><owner>dragonight01</owner></card>
+<card><id>43</id><owner>dragonight01</owner></card>
+<card><id>20</id><owner>dragonight01</owner></card>
+<card><id>42</id><owner>dragonight01</owner></card>
+<card><id>24</id><owner>dragonight01</owner></card>
+<card><id>54</id><owner>dragonight01</owner></card>
 <card><id>27</id><owner>dragonight01</owner></card>
-<card><id>46</id><owner>dragonight01</owner></card>
-<card><id>54</id><owner>dragonight01</owner></card>
-<card><id>36</id><owner>dragonight01</owner></card>
-<card><id>54</id><owner>dragonight01</owner></card>
-<card><id>59</id><owner>dragonight01</owner></card>
-<card><id>55</id><owner>dragonight01</owner></card>
-<card><id>54</id><owner>dragonight01</owner></card>
-<card><id>36</id><owner>dragonight01</owner></card>
-<card><id>7</id><owner>dragonight01</owner></card>
-<card><id>59</id><owner>dragonight01</owner></card>
-<card><id>39</id><owner>dragonight01</owner></card>
-<card><id>40</id><owner>dragonight01</owner></card>
-<card><id>15</id><owner>dragonight01</owner></card>
-<card><id>40</id><owner>dragonight01</owner></card>
-<card><id>39</id><owner>dragonight01</owner></card>
-<card><id>27</id><owner>dragonight01</owner></card>
-<card><id>7</id><owner>dragonight01</owner></card>
-<card><id>12</id><owner>dragonight01</owner></card>
-<card><id>12</id><owner>dragonight01</owner></card>
+<card><id>42</id><owner>dragonight01</owner></card>
+<card><id>24</id><owner>dragonight01</owner></card>
+<card><id>8</id><owner>dragonight01</owner></card>
+<card><id>65</id><owner>dragonight01</owner></card>
+<card><id>48</id><owner>dragonight01</owner></card>
+<card><id>2</id><owner>dragonight01</owner></card>
+<card><id>47</id><owner>dragonight01</owner></card>
+<card><id>67</id><owner>dragonight01</owner></card>
 </zone1>
 <zone2>
 <visibleto>dragonight01</visibleto>
-<visibleto>Mini Lock</visibleto>
-<card><id>35</id><owner>dragonight01</owner></card>
+<visibleto>Mini Lock1</visibleto>
+<card><id>52</id><owner>dragonight01</owner></card>
+<card><id>65</id><owner>dragonight01</owner></card>
+<card><id>65</id><owner>dragonight01</owner></card>
 </zone2>
 <zone3>
 <visibleto>dragonight01</visibleto>
-<visibleto>Mini Lock</visibleto>
+<visibleto>Mini Lock1</visibleto>
 </zone3>
 </player>
 <player>
-<name>Mini Lock</name>
+<name>Mini Lock1</name>
 <seat>1</seat>
+<playerstats>
+<Energy>4</Energy>
+</playerstats>
 <zone0>
-<visibleto>Mini Lock</visibleto>
-<card><id>24</id><owner>Mini Lock</owner></card>
-<card><id>56</id><owner>Mini Lock</owner></card>
-<card><id>14</id><owner>Mini Lock</owner></card>
+<visibleto>Mini Lock1</visibleto>
+<card><id>5</id><owner>Mini Lock1</owner></card>
+<card><id>9</id><owner>Mini Lock1</owner></card>
+<card><id>1</id><owner>Mini Lock1</owner></card>
+<card><id>22</id><owner>Mini Lock1</owner></card>
 </zone0>
 <zone1>
-<card><id>6</id><owner>Mini Lock</owner></card>
-<card><id>21</id><owner>Mini Lock</owner></card>
-<card><id>5</id><owner>Mini Lock</owner></card>
-<card><id>60</id><owner>Mini Lock</owner></card>
-<card><id>21</id><owner>Mini Lock</owner></card>
-<card><id>20</id><owner>Mini Lock</owner></card>
-<card><id>9</id><owner>Mini Lock</owner></card>
-<card><id>4</id><owner>Mini Lock</owner></card>
-<card><id>19</id><owner>Mini Lock</owner></card>
-<card><id>14</id><owner>Mini Lock</owner></card>
-<card><id>60</id><owner>Mini Lock</owner></card>
-<card><id>10</id><owner>Mini Lock</owner></card>
-<card><id>20</id><owner>Mini Lock</owner></card>
-<card><id>5</id><owner>Mini Lock</owner></card>
-<card><id>4</id><owner>Mini Lock</owner></card>
-<card><id>19</id><owner>Mini Lock</owner></card>
-<card><id>58</id><owner>Mini Lock</owner></card>
-<card><id>24</id><owner>Mini Lock</owner></card>
-<card><id>14</id><owner>Mini Lock</owner></card>
-<card><id>1</id><owner>Mini Lock</owner></card>
-<card><id>9</id><owner>Mini Lock</owner></card>
-<card><id>10</id><owner>Mini Lock</owner></card>
-<card><id>31</id><owner>Mini Lock</owner></card>
-<card><id>1</id><owner>Mini Lock</owner></card>
-<card><id>6</id><owner>Mini Lock</owner></card>
-<card><id>43</id><owner>Mini Lock</owner></card>
-<card><id>43</id><owner>Mini Lock</owner></card>
-<card><id>31</id><owner>Mini Lock</owner></card>
-<card><id>29</id><owner>Mini Lock</owner></card>
-<card><id>10</id><owner>Mini Lock</owner></card>
-<card><id>31</id><owner>Mini Lock</owner></card>
-<card><id>29</id><owner>Mini Lock</owner></card>
-<card><id>29</id><owner>Mini Lock</owner></card>
-<card><id>58</id><owner>Mini Lock</owner></card>
-<card><id>56</id><owner>Mini Lock</owner></card>
+<visibleto>Mini Lock1</visibleto>
+<card><id>16</id><owner>Mini Lock1</owner></card>
+<card><id>64</id><owner>Mini Lock1</owner></card>
+<card><id>9</id><owner>Mini Lock1</owner></card>
+<card><id>26</id><owner>Mini Lock1</owner></card>
+<card><id>23</id><owner>Mini Lock1</owner></card>
+<card><id>4</id><owner>Mini Lock1</owner></card>
+<card><id>60</id><owner>Mini Lock1</owner></card>
+<card><id>60</id><owner>Mini Lock1</owner></card>
+<card><id>10</id><owner>Mini Lock1</owner></card>
+<card><id>6</id><owner>Mini Lock1</owner></card>
+<card><id>10</id><owner>Mini Lock1</owner></card>
+<card><id>32</id><owner>Mini Lock1</owner></card>
+<card><id>21</id><owner>Mini Lock1</owner></card>
+<card><id>64</id><owner>Mini Lock1</owner></card>
+<card><id>21</id><owner>Mini Lock1</owner></card>
+<card><id>32</id><owner>Mini Lock1</owner></card>
+<card><id>62</id><owner>Mini Lock1</owner></card>
+<card><id>60</id><owner>Mini Lock1</owner></card>
+<card><id>10</id><owner>Mini Lock1</owner></card>
+<card><id>6</id><owner>Mini Lock1</owner></card>
+<card><id>1</id><owner>Mini Lock1</owner></card>
+<card><id>26</id><owner>Mini Lock1</owner></card>
+<card><id>22</id><owner>Mini Lock1</owner></card>
+<card><id>16</id><owner>Mini Lock1</owner></card>
+<card><id>5</id><owner>Mini Lock1</owner></card>
+<card><id>32</id><owner>Mini Lock1</owner></card>
+<card><id>16</id><owner>Mini Lock1</owner></card>
+<card><id>4</id><owner>Mini Lock1</owner></card>
+<card><id>21</id><owner>Mini Lock1</owner></card>
+<card><id>45</id><owner>Mini Lock1</owner></card>
+<card><id>62</id><owner>Mini Lock1</owner></card>
 </zone1>
 <zone2>
-<visibleto>Mini Lock</visibleto>
+<visibleto>Mini Lock1</visibleto>
 <visibleto>dragonight01</visibleto>
+<card><id>23</id><owner>Mini Lock1</owner></card>
+<card><id>1</id><owner>Mini Lock1</owner></card>
+<card><id>45</id><owner>Mini Lock1</owner></card>
 </zone2>
 <zone3>
-<visibleto>Mini Lock</visibleto>
+<visibleto>Mini Lock1</visibleto>
 <visibleto>dragonight01</visibleto>
 </zone3>
 </player>
 <table>
-<card><id>13</id><owner>dragonight01</owner><y>-0.66</y></card>
-<card><id>57</id><owner>Mini Lock</owner><x>0.03</x><y>0.57</y></card>
-<card><id>56</id><owner>Mini Lock</owner><x>0.66</x><y>0.27</y></card>
-<card><id>7</id><owner>dragonight01</owner><x>-0.78</x><y>-0.42</y></card>
-<card><id>1</id><owner>Mini Lock</owner><rotation>3</rotation><x>0.03</x><y>0.21</y></card>
-<card><id>60</id><owner>Mini Lock</owner><rotation>3</rotation><note>4</note><x>0.78</x><y>0.24</y></card>
-<card><id>19</id><owner>Mini Lock</owner><rotation>3</rotation><x>0.21</x><y>0.21</y></card>
+<card><id>61</id><owner>Mini Lock1</owner><y>0.72</y></card>
+<card><id>64</id><owner>Mini Lock1</owner><note>4</note><x>0.69</x><y>0.24</y><Green>2</Green></card>
+<card><id>51</id><owner>dragonight01</owner><y>-0.69</y></card>
+<card><id>33</id><owner>dragonight01</owner><rotation>3</rotation><y>-0.3</y></card>
+<card><id>54</id><owner>dragonight01</owner><rotation>3</rotation><x>-0.21</x><y>-0.3</y></card>
 </table>
 </save>

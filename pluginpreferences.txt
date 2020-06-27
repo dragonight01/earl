@@ -62,6 +62,7 @@
 <bindinggeneral6>CTRL+RIGHT</bindinggeneral6>
 <bindinggeneral7>CTRL+n</bindinggeneral7>
 <bindinggeneral8>CTRL+m</bindinggeneral8>
+<bindingcard0>BACKSPACE</bindingcard0>
 <bindingcard1>ALT+q</bindingcard1>
 <bindingcard2>CTRL+BACKSPACE</bindingcard2>
 <bindingcard3>CTRL+SHIFT+EQUALS</bindingcard3>
