@@ -114,7 +114,7 @@
 
 <generalfunction><label>Spawn card</label><kind>SPAWNCARD</kind><includeasbutton>no</includeasbutton></generalfunction>
 
-<cardfunction>
+<cardfunction><cardfunction><label>Clone</label><kind>CLONE</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Green +1</label><kind>ADDCOUNTERGREEN</kind><includeasbutton>yes</includeasbutton><PositionX>0.3</PositionX><PositionY>-0.06</PositionY></cardfunction><cardfunction>
 	<label>Stand</label>
 	<kind>MAKERIGHT0DEGREES</kind>
