@@ -1,78 +1,107 @@
-Name	Kingdom	ImageFile	Type	Rarity
-Alien Battlefield	Alien	S101	Structure	Common
-Alien Blaster	Alien	S102	Magic	Common
-Alien Commander	Alien	S103	Creature	Common
-Uugvak, Conquerer of the Universe	Alien	S104	Creature	Ultimate Rare
-Alien Metamorph	Alien	S105	Creature	Common
-Alien of Light, Oman	Alien	S106	Creature	Rare
-Alien Overlord, Yxxilig	Alien	S107	Creature	Ultra Rare
-Kozex, Changeling	Alien	S108	Creature	Common
-Alien Troop, Yiglizz	Alien	S109	Creature	Common
-Alien UFO	Alien	S110	Structure	Uncommon
-Archer Station	Medieval	S111	Structure	Common
-Asteroid Barrier	Dino	S112	Magic	Common
-Baby Dino	Dino	S113	Creature	Common
-Ballista	Medieval	S114	Structure	Uncommon
-Bishop of the White Knight	Medieval	S115	Creature	Common
-Castle	Medieval	S116	Base	Common
-Catapult	Medieval	S117	Structure	Common
-Dinio, Priest of the Dinos	Dino	S118	Creature	Common
-Dino Egg Token	Dino	S119	Token	Common
-Dino Eggs	Dino	S120	Magic	Uncommon
-Dino Island	Dino	S121	Base	Common
-Doragon, Alien of Hell	Alien	S122	Creature	Common
-Enosaurus	Dino	S123	Creature	Common
-Extinction	Dino	S124	Magic	Common
-Fossil Excavation	Dino	S125	Magic	Common
-Fossil Restoration	Dino	S126	Magic	Rare
-Flying Snake	Generic	S127	Creature	Common
-King Of Dinos	Dino	S128	Creature	Ultra Rare
-Knight of Light, Oman	Medieval	S129	Creature	Ultra Rare
-Tundra Fox	Generic	S130	Creature	Common
-Metamorphic Armour	Generic	S131	Equip	Uncommon
-Meteor Impact	Dino	S132	Magic	Common
-Oblivion, Alien Of Apocalypse	Alien	S133	Creature	Rare
-Oblivion, Dino Of Apocalypse	Dino	S134	Creature	Ultimate Rare
-Oman, Leader of Heroes	Medieval	S135	Creature	Ultimate Rare
-Oman's Call	Medieval	S136	Magic	Common
-Oman's Companion	Medieval	S137	Magic	Common
-Peptosaur	Dino	S138	Creature	Common
-Personal Builder	Medieval	S139	Creature	Common
-Planet Zarxxig	Alien	S140	Base	Common
-Resupply	Medieval	S141	Magic	Common
-Invasion	Alien	S142	Magic	Rare
-Xylzig, Wanderer of Space	Alien	S143	Creature	Common
-Soldier of Zarxxig	Alien	S144	Creature	Common
-Squire of Oman	Medieval	S145	Creature	Common
-Strongest Shield	Medieval	S146	Magic	Common
-Tail Slam	Dino	S147	Magic	Common
-Trained Commandant, Oman	Medieval	S148	Creature	Common
-Trusty Swordsman, Orion	Medieval	S149	Creature	Rare
-Volcano	Dino	S150	Structure	Uncommon
-Warrior of Protection, Garret	Medieval	S151	Creature	Common
-Irvine La Croix	Cultist	S201	Creature	Common
-Heinrik Moonfall	Cultist	S202	Creature	Common
-Cidolfus Payne	Cultist	S203	Creature	Common
-Iluz Periculum	Cultist	S204	Creature	Rare
-Holmes Periculum	Cultist	S205	Creature	Rare
-Maganti Shadowend	Cultist	S206	GOD	Ultimate Rare
-The Crimson Curse	Cultist	S207	Magic	Rare
-Curse of Catastrophe	Cultist	S208	Magic	Rare
-Diamanda Addington	Cultist	S209	Creature	Common
-Emma Dupree	Cultist	S210	Creature	Uncommon
-Belle Snow	Cultist	S211	Creature	Ultra Rare
-Manifest Soul	Cultist	S212	Magic	Uncommon
-Shroud	Cultist	S213	Magic	Ultra Rare
-Gift of Death	Cultist	S214	Magic	Uncommon
-Illusion of Souls	Cultist	S215	Magic	Common
-Rakshasas Nox	Cultist	S216	Creature	Common
-Shrine of Shadowend	Cultist	S217	Base	Rare
-Curse of Sacrifice	Cultist	S218	Magic	Ultra Rare
-Azroxath Ig'drelliuth	Cultist	S219	GOD	Ultimate Rare
-Foresight	Generic	S220	Magic	Rare
-Ice Mammoth	Generic	S221	Creature	Rare
-Necromancy	Generic	S222	Magic	Rare
-Chaos Wolf	Generic	S223	Creature	Common
-Flaming Eagle	Generic	S224	Creature	Common
-Ruins of the Night	Generic	S225	Structure	Ultra Rare
-Shrine of Everlasting Day	Generic	S226	Structure	Ultra Rare
+Name	Kingdom	ImageFile	Type
+Alien Battlefield	Alien	S101	Structure
+Alien Blaster	Alien	S102	Spell
+Alien Commander	Alien	S103	Creature
+Uugvak, Conquerer of the Universe	Alien	S104	Creature
+Alien Metamorph	Alien	S105	Creature
+Alien of Light, Oman	Alien	S106	Creature
+Alien Overlord, Yxxilig	Alien	S107	Creature
+Kozex, Changeling	Alien	S108	Creature
+Alien Troop, Yiglizz	Alien	S109	Creature
+Alien UFO	Alien	S110	Structure
+Archer Station	Medieval	S111	Structure
+Asteroid Barrier	Dino	S112	Spell
+Baby Dino	Dino	S113	Creature
+Ballista	Medieval	S114	Structure
+Bishop of the White Knight	Medieval	S115	Creature
+Castle	Medieval	S116	Base
+Catapult	Medieval	S117	Structure
+Dinio, Priest of the Dinos	Dino	S118	Creature
+Dino Egg Token	Dino	S119	Token
+Dino Eggs	Dino	S120	Spell
+Dino Island	Dino	S121	Base
+Doragon, Alien of Hell	Alien	S122	Creature
+Enosaurus	Dino	S123	Creature
+Extinction	Dino	S124	Spell
+Fossil Excavation	Dino	S125	Spell
+Fossil Restoration	Dino	S126	Spell
+Flying Snake	Generic	S127	Creature
+King Of Dinos	Dino	S128	Creature
+Knight of Light, Oman	Medieval	S129	Creature
+Tundra Fox	Generic	S130	Creature
+Metamorphic Armour	Generic	S131	Equip
+Meteor Impact	Dino	S132	Spell
+Oblivion, Alien Of Apocalypse	Alien	S133	Creature
+Oblivion, Dino Of Apocalypse	Dino	S134	Creature
+Oman, Leader of Heroes	Medieval	S135	Creature
+Oman's Call	Medieval	S136	Spell
+Oman's Companion	Medieval	S137	Spell
+Peptosaur	Dino	S138	Creature
+Personal Builder	Medieval	S139	Creature
+Planet Zarxxig	Alien	S140	Base
+Resupply	Medieval	S141	Spell
+Invasion	Alien	S142	Spell
+Xylzig, Wanderer of Space	Alien	S143	Creature
+Soldier of Zarxxig	Alien	S144	Creature
+Squire of Oman	Medieval	S145	Creature
+Strongest Shield	Medieval	S146	Spell
+Tail Slam	Dino	S147	Spell
+Trained Commandant, Oman	Medieval	S148	Creature
+Trusty Swordsman, Orion	Medieval	S149	Creature
+Volcano	Dino	S150	Structure
+Warrior of Protection, Garret	Medieval	S151	Creature
+Irvine La Croix	Cultist	S201	Creature
+Heinrik Moonfall	Cultist	S202	Creature
+Cidolfus Payne	Cultist	S203	Creature
+Iluz Periculum	Cultist	S204	Creature
+Holmes Periculum	Cultist	S205	Creature
+Maganti Shadowend	Cultist	S206	GOD
+The Crimson Curse	Cultist	S207	Spell
+Curse of Catastrophe	Cultist	S208	Spell
+Diamanda Addington	Cultist	S209	Creature
+Emma Dupree	Cultist	S210	Creature
+Belle Snow	Cultist	S211	Creature
+Manifest Soul	Cultist	S212	Spell
+Shroud	Cultist	S213	Spell
+Gift of Death	Cultist	S214	Spell
+Illusion of Souls	Cultist	S215	Spell
+Rakshasas Nox	Cultist	S216	Creature
+Shrine of Shadowend	Cultist	S217	Base
+Curse of Sacrifice	Cultist	S218	Spell
+Azroxath Ig'drelliuth	Cultist	S219	GOD
+Foresight	Generic	S220	Spell
+Elephant Statue	Generic	S221	Creature
+Necromancy	Generic	S222	Spell
+Chaos Wolf	Generic	S223	Creature
+Flaming Eagle	Generic	S224	Creature
+Ruins of the Night	Generic	S225	Structure
+Shrine of Everlasting Day	Generic	S226	Structure
+Bergo, the Gifted	Dragon	S301	Creature
+Dragon's Call	Dragon	S302	Spell
+Dragon's Nest	Dragon	S303	Structure
+The Dragon's Roar	Dragon	S304	Spell
+Fire Breath	Dragon	S305	Spell
+Fire Ball	Dragon	S306	Spell
+Ice Breath	Dragon	S307	Spell
+Kandreoth, Elemental Dragon	Dragon	S308	Creature
+Kerdek, the Voiceless	Dragon	S309	Creature
+Korgonterth, Deathlord	Dragon	S310	Creature
+Lightning Breath	Dragon	S311	Spell
+Poision Breath	Dragon	S312	Spell
+Serg, Dragon Rider	Dragon	S313	Creature
+Zanelle, Dragon Rider	Dragon	S314	Creature
+Dragon's World	Dragon	S315	Base
+Miranda, Dream Fairy	Dream	S401	Creature
+Opal, Dream Sprite	Dream	S402	Creature
+Nightmare Beast, Cerberus	Dream	S403	Creature
+Fallen Angel	Dream	S404	Creature
+Tree of Dreams	Dream	S405	Structure
+Hymn of Serendipity	Dream	S406	Spell
+Fairy Aura	Dream	S407	Spell
+Dina, Dream Fairy	Dream	S408	Creature
+Alora's Gifts	Dream	S409	Spell
+Nightmare Beast, Shadow	Dream	S410	Creature
+Tinesi of Iqethra	Dream	S411	Creature
+Silent Wishes	Dream	S412	Spell
+Remorse	Dream	S413	Spell
+Opal's Barrier	Dream	S414	Structure
