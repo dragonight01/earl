@@ -2,12 +2,12 @@ Name	Kingdom	ImageFile	Type
 Alien Battlefield	Alien	S101	Structure
 Alien Blaster	Alien	S102	Spell
 Alien Commander	Alien	S103	Creature
-Uugvak, Conquerer of the Universe	Alien	S104	Creature
-Alien Metamorph	Alien	S105	Creature
-Alien of Light, Oman	Alien	S106	Creature
-Alien Overlord, Yxxilig	Alien	S107	Creature
-Kozex, Changeling	Alien	S108	Creature
-Alien Troop, Yiglizz	Alien	S109	Creature
+"Uugvak, Conquerer of the Universe"	Alien	S104	Creature
+Kozex Changeling	Alien	S105	Creature
+"Alien of Light, Oman"	Alien	S106	Creature
+"Alien Overlord, Yxxilig"	Alien	S107	Creature
+Alien Spawn	Alien	S108	Creature
+"Alien Troop, Yiglizz"	Alien	S109	Creature
 Alien UFO	Alien	S110	Structure
 Archer Station	Medieval	S111	Structure
 Asteroid Barrier	Dino	S112	Spell
@@ -16,24 +16,24 @@ Ballista	Medieval	S114	Structure
 Bishop of the White Knight	Medieval	S115	Creature
 Castle	Medieval	S116	Base
 Catapult	Medieval	S117	Structure
-Dinio, Priest of the Dinos	Dino	S118	Creature
+"Dinio, Priest of the Dinos"	Dino	S118	Creature
 Dino Egg Token	Dino	S119	Token
 Dino Eggs	Dino	S120	Spell
 Dino Island	Dino	S121	Base
-Doragon, Alien of Hell	Alien	S122	Creature
+"Doragon, Alien of Hell"	Alien	S122	Creature
 Enosaurus	Dino	S123	Creature
 Extinction	Dino	S124	Spell
 Fossil Excavation	Dino	S125	Spell
 Fossil Restoration	Dino	S126	Spell
 Flying Snake	Generic	S127	Creature
 King Of Dinos	Dino	S128	Creature
-Knight of Light, Oman	Medieval	S129	Creature
+"Knight of Light, Oman"	Medieval	S129	Creature
 Tundra Fox	Generic	S130	Creature
 Metamorphic Armour	Generic	S131	Equip
 Meteor Impact	Dino	S132	Spell
-Oblivion, Alien Of Apocalypse	Alien	S133	Creature
-Oblivion, Dino Of Apocalypse	Dino	S134	Creature
-Oman, Leader of Heroes	Medieval	S135	Creature
+"Oblivion, Alien Of Apocalypse"	Alien	S133	Creature
+"Oblivion, Dino Of Apocalypse"	Dino	S134	Creature
+"Oman, Leader of Heroes"	Medieval	S135	Creature
 Oman's Call	Medieval	S136	Spell
 Oman's Companion	Medieval	S137	Spell
 Peptosaur	Dino	S138	Creature
@@ -41,15 +41,15 @@ Personal Builder	Medieval	S139	Creature
 Planet Zarxxig	Alien	S140	Base
 Resupply	Medieval	S141	Spell
 Invasion	Alien	S142	Spell
-Xylzig, Wanderer of Space	Alien	S143	Creature
+"Xylzig, Wanderer of Space"	Alien	S143	Creature
 Soldier of Zarxxig	Alien	S144	Creature
 Squire of Oman	Medieval	S145	Creature
 Strongest Shield	Medieval	S146	Spell
 Tail Slam	Dino	S147	Spell
-Trained Commandant, Oman	Medieval	S148	Creature
-Trusty Swordsman, Orion	Medieval	S149	Creature
+"Trained Commandant, Oman"	Medieval	S148	Creature
+"Trusty Swordsman, Orion"	Medieval	S149	Creature
 Volcano	Dino	S150	Structure
-Warrior of Protection, Garret	Medieval	S151	Creature
+"Warrior of Protection, Garret"	Medieval	S151	Creature
 Irvine La Croix	Cultist	S201	Creature
 Heinrik Moonfall	Cultist	S202	Creature
 Cidolfus Payne	Cultist	S203	Creature
@@ -76,31 +76,31 @@ Chaos Wolf	Generic	S223	Creature
 Flaming Eagle	Generic	S224	Creature
 Ruins of the Night	Generic	S225	Structure
 Shrine of Everlasting Day	Generic	S226	Structure
-Bergo, the Gifted	Dragon	S301	Creature
+"Bergo, the Gifted"	Dragon	S301	Creature
 Dragon's Call	Dragon	S302	Spell
 Dragon's Nest	Dragon	S303	Structure
 The Dragon's Roar	Dragon	S304	Spell
 Fire Breath	Dragon	S305	Spell
 Fire Ball	Dragon	S306	Spell
 Ice Breath	Dragon	S307	Spell
-Kandreoth, Elemental Dragon	Dragon	S308	Creature
-Kerdek, the Voiceless	Dragon	S309	Creature
-Korgonterth, Deathlord	Dragon	S310	Creature
+"Kandreoth, Elemental Dragon"	Dragon	S308	Creature
+"Kerdek, the Voiceless"	Dragon	S309	Creature
+"Korgonterth, Deathlord"	Dragon	S310	Creature
 Lightning Breath	Dragon	S311	Spell
 Poision Breath	Dragon	S312	Spell
-Serg, Dragon Rider	Dragon	S313	Creature
-Zanelle, Dragon Rider	Dragon	S314	Creature
+"Serg, Dragon Rider"	Dragon	S313	Creature
+"Zanelle, Dragon Rider"	Dragon	S314	Creature
 Dragon's World	Dragon	S315	Base
-Miranda, Dream Fairy	Dream	S401	Creature
-Opal, Dream Sprite	Dream	S402	Creature
-Nightmare Beast, Cerberus	Dream	S403	Creature
+"Miranda, Dream Fairy"	Dream	S401	Creature
+"Opal, Dream Sprite"	Dream	S402	Creature
+"Nightmare Beast, Cerberus"	Dream	S403	Creature
 Fallen Angel	Dream	S404	Creature
 Tree of Dreams	Dream	S405	Structure
 Hymn of Serendipity	Dream	S406	Spell
 Fairy Aura	Dream	S407	Spell
-Dina, Dream Fairy	Dream	S408	Creature
+"Dina, Dream Fairy"	Dream	S408	Creature
 Alora's Gifts	Dream	S409	Spell
-Nightmare Beast, Shadow	Dream	S410	Creature
+"Nightmare Beast, Shadow"	Dream	S410	Creature
 Tinesi of Iqethra	Dream	S411	Creature
 Silent Wishes	Dream	S412	Spell
 Remorse	Dream	S413	Spell

@@ -1,5 +1,5 @@
-RECENTDECK0:Dragon.dek
-RECENTDECK1:Dream.dek
+RECENTDECK0:Dream.dek
+RECENTDECK1:Dragon.dek
 RECENTDECK2:Cultist.dek
 RECENTDECK3:Dino.dek
 RECENTDECK4:Cultist_3.dek
