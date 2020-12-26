@@ -1,8 +1,9 @@
-RECENTDECK0:Dream.dek
-RECENTDECK1:Dragon.dek
-RECENTDECK2:Cultist.dek
-RECENTDECK3:Dino.dek
-RECENTDECK4:Cultist_3.dek
-RECENTDECK5:Medieval.dek
-RECENTDECK6:Alien.dek
-RECENTDECK7:Cultist_2.dek
+RECENTDECK0:Dino.dek
+RECENTDECK1:Dino.txt
+RECENTDECK2:Dream.dek
+RECENTDECK3:Dragon.dek
+RECENTDECK4:Cultist.dek
+RECENTDECK5:Cultist_3.dek
+RECENTDECK6:Medieval.dek
+RECENTDECK7:Alien.dek
+RECENTDECK8:Cultist_2.dek
