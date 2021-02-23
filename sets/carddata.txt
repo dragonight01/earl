@@ -2,12 +2,12 @@ Name	Kingdom	ImageFile	Type
 Alien Battlefield	Astral	S101	Structure
 Alien Blaster	Astral	S102	Spell
 Alien Commander	Astral	S103	Creature
-"Uugvak, Conquerer of the Universe"	Astral	S104	Creature
+Uugvak, Conquerer of the Universe	Astral	S104	Creature
 Kozex Changeling	Astral	S105	Creature
-"Alien of Light, Oman"	Astral	S106	Creature
-"Alien Overlord, Yxxilig"	Astral	S107	Creature
+Alien of Light, Oman	Astral	S106	Creature
+Alien Overlord, Yxxilig	Astral	S107	Creature
 Alien Spawn	Astral	S108	Creature
-"Alien Troop, Yiglizz"	Astral	S109	Creature
+Alien Troop, Yiglizz	Astral	S109	Creature
 Alien UFO	Astral	S110	Structure
 Archer Station	Holy	S111	Structure
 Asteroid Barrier	Historic	S112	Spell
@@ -16,24 +16,24 @@ Ballista	Holy	S114	Structure
 Bishop of the White Knight	Holy	S115	Creature
 Castle	Holy	S116	Base
 Catapult	Holy	S117	Structure
-"Dinio, Priest of the Dinos"	Historic	S118	Creature
+Dinio, Priest of the Dinos	Historic	S118	Creature
 Dino Egg Token	Historic	S119	Token
 Dino Eggs	Historic	S120	Spell
 Dino Island	Historic	S121	Base
-"Doragon, Alien of Hell"	Astral	S122	Creature
+Doragon, Alien of Hell	Astral	S122	Creature
 Enosaurus	Historic	S123	Creature
 Extinction	Historic	S124	Spell
 Fossil Excavation	Historic	S125	Spell
 Fossil Restoration	Historic	S126	Spell
 Flying Snake	Generic	S127	Creature
 King Of Dinos	Historic	S128	Creature
-"Knight of Light, Oman"	Holy	S129	Creature
+Knight of Light, Oman	Holy	S129	Creature
 Tundra Fox	Generic	S130	Creature
 Metamorphic Armour	Generic	S131	Equip
 Meteor Impact	Historic	S132	Spell
-"Oblivion, Alien Of Apocalypse"	Astral	S133	Creature
-"Oblivion, Dino Of Apocalypse"	Historic	S134	Creature
-"Oman, Leader of Heroes"	Holy	S135	Creature
+Oblivion, Alien Of Apocalypse	Astral	S133	Creature
+Oblivion, Dino Of Apocalypse	Historic	S134	Creature
+Oman, Leader of Heroes	Holy	S135	Creature
 Oman's Call	Holy	S136	Spell
 Oman's Companion	Holy	S137	Spell
 Peptosaur	Historic	S138	Creature
@@ -41,15 +41,15 @@ Personal Builder	Holy	S139	Creature
 Planet Zarxxig	Astral	S140	Base
 Resupply	Holy	S141	Spell
 Invasion	Astral	S142	Spell
-"Xylzig, Wanderer of Space"	Astral	S143	Creature
+Xylzig, Wanderer of Space	Astral	S143	Creature
 Soldier of Zarxxig	Astral	S144	Creature
 Squire of Oman	Holy	S145	Creature
 Strongest Shield	Holy	S146	Spell
 Tail Slam	Historic	S147	Spell
-"Trained Commandant, Oman"	Holy	S148	Creature
-"Trusty Swordsman, Orion"	Holy	S149	Creature
+Trained Commandant, Oman	Holy	S148	Creature
+Trusty Swordsman, Orion	Holy	S149	Creature
 Volcano	Historic	S150	Structure
-"Warrior of Protection, Garret"	Holy	S151	Creature
+Warrior of Protection, Garret	Holy	S151	Creature
 Irvine La Croix	Mystic	S201	Creature
 Heinrik Moonfall	Mystic	S202	Creature
 Cidolfus Payne	Mystic	S203	Creature
@@ -76,31 +76,31 @@ Chaos Wolf	Generic	S223	Creature
 Flaming Eagle	Generic	S224	Creature
 Ruins of the Night	Generic	S225	Structure
 Shrine of Everlasting Day	Generic	S226	Structure
-"Bergo, the Gifted"	Draconic	S301	Creature
+Bergo, the Gifted	Draconic	S301	Creature
 Dragon's Call	Draconic	S302	Spell
 Dragon's Nest	Draconic	S303	Structure
 The Dragon's Roar	Draconic	S304	Spell
 Fire Breath	Draconic	S305	Spell
 Fire Ball	Draconic	S306	Spell
 Ice Breath	Draconic	S307	Spell
-"Kandreoth, Elemental Dragon"	Draconic	S308	Creature
-"Kerdek, the Voiceless"	Draconic	S309	Creature
-"Korgonterth, Deathlord"	Draconic	S310	Creature
+Kandreoth, Elemental Dragon	Draconic	S308	Creature
+Kerdek, the Voiceless	Draconic	S309	Creature
+Korgonterth, Deathlord	Draconic	S310	Creature
 Lightning Breath	Draconic	S311	Spell
 Poision Breath	Draconic	S312	Spell
-"Serg, Dragon Rider"	Draconic	S313	Creature
-"Zanelle, Dragon Rider"	Draconic	S314	Creature
+Serg, Dragon Rider	Draconic	S313	Creature
+Zanelle, Dragon Rider	Draconic	S314	Creature
 Dragon's World	Draconic	S315	Base
-"Miranda, Mystic Fairy"	Mystic	S401	Creature
-"Opal, Mystic Sprite"	Mystic	S402	Creature
-"Nightmare Beast, Cerberus"	Mystic	S403	Creature
+Miranda, Mystic Fairy	Mystic	S401	Creature
+Opal, Mystic Sprite	Mystic	S402	Creature
+Nightmare Beast, Cerberus	Mystic	S403	Creature
 Fallen Angel	Mystic	S404	Creature
 Tree of Mystics	Mystic	S405	Structure
 Hymn of Serendipity	Mystic	S406	Spell
 Fairy Aura	Mystic	S407	Spell
-"Dina, Mystic Fairy"	Mystic	S408	Creature
+Dina, Mystic Fairy	Mystic	S408	Creature
 Alora's Gifts	Mystic	S409	Spell
-"Nightmare Beast, Shadow"	Mystic	S410	Creature
+Nightmare Beast, Shadow	Mystic	S410	Creature
 Tinesi of Iqethra	Mystic	S411	Creature
 Silent Wishes	Mystic	S412	Spell
 Remorse	Mystic	S413	Spell
