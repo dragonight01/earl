@@ -1,74 +1,74 @@
 Name	Kingdom	ImageFile	Type
-Alien Battlefield	Alien	S101	Structure
-Alien Blaster	Alien	S102	Spell
-Alien Commander	Alien	S103	Creature
-"Uugvak, Conquerer of the Universe"	Alien	S104	Creature
-Kozex Changeling	Alien	S105	Creature
-"Alien of Light, Oman"	Alien	S106	Creature
-"Alien Overlord, Yxxilig"	Alien	S107	Creature
-Alien Spawn	Alien	S108	Creature
-"Alien Troop, Yiglizz"	Alien	S109	Creature
-Alien UFO	Alien	S110	Structure
-Archer Station	Medieval	S111	Structure
-Asteroid Barrier	Dino	S112	Spell
-Baby Dino	Dino	S113	Creature
-Ballista	Medieval	S114	Structure
-Bishop of the White Knight	Medieval	S115	Creature
-Castle	Medieval	S116	Base
-Catapult	Medieval	S117	Structure
-"Dinio, Priest of the Dinos"	Dino	S118	Creature
-Dino Egg Token	Dino	S119	Token
-Dino Eggs	Dino	S120	Spell
-Dino Island	Dino	S121	Base
-"Doragon, Alien of Hell"	Alien	S122	Creature
-Enosaurus	Dino	S123	Creature
-Extinction	Dino	S124	Spell
-Fossil Excavation	Dino	S125	Spell
-Fossil Restoration	Dino	S126	Spell
+Alien Battlefield	Astral	S101	Structure
+Alien Blaster	Astral	S102	Spell
+Alien Commander	Astral	S103	Creature
+"Uugvak, Conquerer of the Universe"	Astral	S104	Creature
+Kozex Changeling	Astral	S105	Creature
+"Alien of Light, Oman"	Astral	S106	Creature
+"Alien Overlord, Yxxilig"	Astral	S107	Creature
+Alien Spawn	Astral	S108	Creature
+"Alien Troop, Yiglizz"	Astral	S109	Creature
+Alien UFO	Astral	S110	Structure
+Archer Station	Holy	S111	Structure
+Asteroid Barrier	Historic	S112	Spell
+Baby Dino	Historic	S113	Creature
+Ballista	Holy	S114	Structure
+Bishop of the White Knight	Holy	S115	Creature
+Castle	Holy	S116	Base
+Catapult	Holy	S117	Structure
+"Dinio, Priest of the Dinos"	Historic	S118	Creature
+Dino Egg Token	Historic	S119	Token
+Dino Eggs	Historic	S120	Spell
+Dino Island	Historic	S121	Base
+"Doragon, Alien of Hell"	Astral	S122	Creature
+Enosaurus	Historic	S123	Creature
+Extinction	Historic	S124	Spell
+Fossil Excavation	Historic	S125	Spell
+Fossil Restoration	Historic	S126	Spell
 Flying Snake	Generic	S127	Creature
-King Of Dinos	Dino	S128	Creature
-"Knight of Light, Oman"	Medieval	S129	Creature
+King Of Dinos	Historic	S128	Creature
+"Knight of Light, Oman"	Holy	S129	Creature
 Tundra Fox	Generic	S130	Creature
 Metamorphic Armour	Generic	S131	Equip
-Meteor Impact	Dino	S132	Spell
-"Oblivion, Alien Of Apocalypse"	Alien	S133	Creature
-"Oblivion, Dino Of Apocalypse"	Dino	S134	Creature
-"Oman, Leader of Heroes"	Medieval	S135	Creature
-Oman's Call	Medieval	S136	Spell
-Oman's Companion	Medieval	S137	Spell
-Peptosaur	Dino	S138	Creature
-Personal Builder	Medieval	S139	Creature
-Planet Zarxxig	Alien	S140	Base
-Resupply	Medieval	S141	Spell
-Invasion	Alien	S142	Spell
-"Xylzig, Wanderer of Space"	Alien	S143	Creature
-Soldier of Zarxxig	Alien	S144	Creature
-Squire of Oman	Medieval	S145	Creature
-Strongest Shield	Medieval	S146	Spell
-Tail Slam	Dino	S147	Spell
-"Trained Commandant, Oman"	Medieval	S148	Creature
-"Trusty Swordsman, Orion"	Medieval	S149	Creature
-Volcano	Dino	S150	Structure
-"Warrior of Protection, Garret"	Medieval	S151	Creature
-Irvine La Croix	Cultist	S201	Creature
-Heinrik Moonfall	Cultist	S202	Creature
-Cidolfus Payne	Cultist	S203	Creature
-Iluz Periculum	Cultist	S204	Creature
-Holmes Periculum	Cultist	S205	Creature
-Maganti Shadowend	Cultist	S206	GOD
-The Crimson Curse	Cultist	S207	Spell
-Curse of Catastrophe	Cultist	S208	Spell
-Diamanda Addington	Cultist	S209	Creature
-Emma Dupree	Cultist	S210	Creature
-Belle Snow	Cultist	S211	Creature
-Manifest Soul	Cultist	S212	Spell
-Shroud	Cultist	S213	Spell
-Gift of Death	Cultist	S214	Spell
-Illusion of Souls	Cultist	S215	Spell
-Rakshasas Nox	Cultist	S216	Creature
-Shrine of Shadowend	Cultist	S217	Base
-Curse of Sacrifice	Cultist	S218	Spell
-Azroxath Ig'drelliuth	Cultist	S219	GOD
+Meteor Impact	Historic	S132	Spell
+"Oblivion, Alien Of Apocalypse"	Astral	S133	Creature
+"Oblivion, Dino Of Apocalypse"	Historic	S134	Creature
+"Oman, Leader of Heroes"	Holy	S135	Creature
+Oman's Call	Holy	S136	Spell
+Oman's Companion	Holy	S137	Spell
+Peptosaur	Historic	S138	Creature
+Personal Builder	Holy	S139	Creature
+Planet Zarxxig	Astral	S140	Base
+Resupply	Holy	S141	Spell
+Invasion	Astral	S142	Spell
+"Xylzig, Wanderer of Space"	Astral	S143	Creature
+Soldier of Zarxxig	Astral	S144	Creature
+Squire of Oman	Holy	S145	Creature
+Strongest Shield	Holy	S146	Spell
+Tail Slam	Historic	S147	Spell
+"Trained Commandant, Oman"	Holy	S148	Creature
+"Trusty Swordsman, Orion"	Holy	S149	Creature
+Volcano	Historic	S150	Structure
+"Warrior of Protection, Garret"	Holy	S151	Creature
+Irvine La Croix	Mystic	S201	Creature
+Heinrik Moonfall	Mystic	S202	Creature
+Cidolfus Payne	Mystic	S203	Creature
+Iluz Periculum	Mystic	S204	Creature
+Holmes Periculum	Mystic	S205	Creature
+Maganti Shadowend	Mystic	S206	GOD
+The Crimson Curse	Mystic	S207	Spell
+Curse of Catastrophe	Mystic	S208	Spell
+Diamanda Addington	Mystic	S209	Creature
+Emma Dupree	Mystic	S210	Creature
+Belle Snow	Mystic	S211	Creature
+Manifest Soul	Mystic	S212	Spell
+Shroud	Mystic	S213	Spell
+Gift of Death	Mystic	S214	Spell
+Illusion of Souls	Mystic	S215	Spell
+Rakshasas Nox	Mystic	S216	Creature
+Shrine of Shadowend	Mystic	S217	Base
+Curse of Sacrifice	Mystic	S218	Spell
+Azroxath Ig'drelliuth	Mystic	S219	GOD
 Foresight	Generic	S220	Spell
 Elephant Statue	Generic	S221	Creature
 Necromancy	Generic	S222	Spell
@@ -76,32 +76,32 @@ Chaos Wolf	Generic	S223	Creature
 Flaming Eagle	Generic	S224	Creature
 Ruins of the Night	Generic	S225	Structure
 Shrine of Everlasting Day	Generic	S226	Structure
-"Bergo, the Gifted"	Dragon	S301	Creature
-Dragon's Call	Dragon	S302	Spell
-Dragon's Nest	Dragon	S303	Structure
-The Dragon's Roar	Dragon	S304	Spell
-Fire Breath	Dragon	S305	Spell
-Fire Ball	Dragon	S306	Spell
-Ice Breath	Dragon	S307	Spell
-"Kandreoth, Elemental Dragon"	Dragon	S308	Creature
-"Kerdek, the Voiceless"	Dragon	S309	Creature
-"Korgonterth, Deathlord"	Dragon	S310	Creature
-Lightning Breath	Dragon	S311	Spell
-Poision Breath	Dragon	S312	Spell
-"Serg, Dragon Rider"	Dragon	S313	Creature
-"Zanelle, Dragon Rider"	Dragon	S314	Creature
-Dragon's World	Dragon	S315	Base
-"Miranda, Dream Fairy"	Dream	S401	Creature
-"Opal, Dream Sprite"	Dream	S402	Creature
-"Nightmare Beast, Cerberus"	Dream	S403	Creature
-Fallen Angel	Dream	S404	Creature
-Tree of Dreams	Dream	S405	Structure
-Hymn of Serendipity	Dream	S406	Spell
-Fairy Aura	Dream	S407	Spell
-"Dina, Dream Fairy"	Dream	S408	Creature
-Alora's Gifts	Dream	S409	Spell
-"Nightmare Beast, Shadow"	Dream	S410	Creature
-Tinesi of Iqethra	Dream	S411	Creature
-Silent Wishes	Dream	S412	Spell
-Remorse	Dream	S413	Spell
-Opal's Barrier	Dream	S414	Structure
+"Bergo, the Gifted"	Draconic	S301	Creature
+Dragon's Call	Draconic	S302	Spell
+Dragon's Nest	Draconic	S303	Structure
+The Dragon's Roar	Draconic	S304	Spell
+Fire Breath	Draconic	S305	Spell
+Fire Ball	Draconic	S306	Spell
+Ice Breath	Draconic	S307	Spell
+"Kandreoth, Elemental Dragon"	Draconic	S308	Creature
+"Kerdek, the Voiceless"	Draconic	S309	Creature
+"Korgonterth, Deathlord"	Draconic	S310	Creature
+Lightning Breath	Draconic	S311	Spell
+Poision Breath	Draconic	S312	Spell
+"Serg, Dragon Rider"	Draconic	S313	Creature
+"Zanelle, Dragon Rider"	Draconic	S314	Creature
+Dragon's World	Draconic	S315	Base
+"Miranda, Mystic Fairy"	Mystic	S401	Creature
+"Opal, Mystic Sprite"	Mystic	S402	Creature
+"Nightmare Beast, Cerberus"	Mystic	S403	Creature
+Fallen Angel	Mystic	S404	Creature
+Tree of Mystics	Mystic	S405	Structure
+Hymn of Serendipity	Mystic	S406	Spell
+Fairy Aura	Mystic	S407	Spell
+"Dina, Mystic Fairy"	Mystic	S408	Creature
+Alora's Gifts	Mystic	S409	Spell
+"Nightmare Beast, Shadow"	Mystic	S410	Creature
+Tinesi of Iqethra	Mystic	S411	Creature
+Silent Wishes	Mystic	S412	Spell
+Remorse	Mystic	S413	Spell
+Opal's Barrier	Mystic	S414	Structure
