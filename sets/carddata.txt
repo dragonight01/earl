@@ -23,7 +23,7 @@ Dino Island	Historic	S121	Base
 Doragon, Alien of Hell	Astral	S122	Creature
 Enosaurus	Historic	S123	Creature
 Extinction	Historic	S124	Spell
-Fossil Excavation	Historic	S125	Spell
+Fossil Excavation	Historic	S125	Structure
 Fossil Restoration	Historic	S126	Spell
 Flying Snake	Generic	S127	Creature
 King Of Dinos	Historic	S128	Creature
